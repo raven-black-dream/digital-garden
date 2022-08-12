@@ -8,8 +8,8 @@ tags:
 # Vincent
 ---
 ## Basic Info
-Player: 
-Clan:
+Player: #NonPlayerCharacter 
+Clan: [[Nosferatu]]
 Generation:
 Sire:
 Childer:
@@ -19,74 +19,74 @@ Ghouls:
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 3
+Dexterity: 2
+Stamina: 3
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 2
+Manipulation: 3
+Appearance: 0
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 4
+Intelligence: 3
+Wits: 3
 
 ---
 
 ## Abilities
 ### Talents
-Alertness:
-Athletics:
-Awareness:
+Alertness: 3
+Athletics: 1
+Awareness: 3
 Brawl:
-Empathy:
+Empathy: 2
 Expression:
-Intimidation:
-Leadership:
+Intimidation: 1
+Leadership: 1
 Legerdemain:
 Subterfuge:
 
 ### Skills
-Animal Ken:
+Animal Ken: 4
 Archery:
 Commerce:
 Crafts:
 Etiquette:
 Melee:
 Performance:
-Ride:
-Stealth:
-Survival:
+Ride: 2
+Stealth: 1
+Survival: 2
 
 ### Knowledges
 Academics:
-Enigmas:
-Hearth Wisdom:
+Enigmas: 1
+Hearth Wisdom: 1
 Investigation:
 Law:
 Medicine:
-Occult:
+Occult: 2
 Politics:
 Seneshal:
-Theology:
+Theology: 3
 
 ---
 
 ## Advantages
 ### Disciplines
-
-
+Animalism 4
+Obfuscate 4
 
 ### Backgrounds
 
 
 
 ### Virtues
-Conscience/Conviction: 
-Self-Control/Instinct:
-Courage:
+Conscience: 3
+Self-Control: 3
+Courage: 4
 
 ### Merits
 
@@ -94,8 +94,8 @@ Courage:
 
 ### Other Traits
 Road: Watchful Gods
-Aura:
-Willpower:
+Aura: Holiness
+Willpower: 8
 
 ### Clan Weakness
 

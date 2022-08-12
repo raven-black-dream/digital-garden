@@ -8,8 +8,8 @@ tags:
 # Volta
 ---
 ## Basic Info
-Player: 
-Clan:
+Player: #NonPlayerCharacter 
+Clan: [[Nosferatu]]
 Generation:
 Sire:
 Childer:
@@ -19,74 +19,76 @@ Ghouls:
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 1
+Dexterity: 4
+Stamina: 3
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 1
+Manipulation: 4
+Appearance: 0
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 3
+Intelligence: 5
+Wits: 3
 
 ---
 
 ## Abilities
 ### Talents
-Alertness:
+Alertness: 3
 Athletics:
-Awareness:
+Awareness: 3
 Brawl:
-Empathy:
+Empathy: 4
 Expression:
 Intimidation:
 Leadership:
 Legerdemain:
-Subterfuge:
+Subterfuge: 2
 
 ### Skills
 Animal Ken:
 Archery:
 Commerce:
 Crafts:
-Etiquette:
+Etiquette: 1
 Melee:
 Performance:
 Ride:
-Stealth:
-Survival:
+Stealth: 2
+Survival: 2
 
 ### Knowledges
-Academics:
-Enigmas:
-Hearth Wisdom:
-Investigation:
-Law:
+Academics: 4
+Enigmas: 3
+Hearth Wisdom: 3
+Investigation: 2
+Law: 1
 Medicine:
-Occult:
+Occult: 3
 Politics:
 Seneshal:
-Theology:
+Theology: 1
 
 ---
 
 ## Advantages
 ### Disciplines
-
-
+Obfuscate 3
+Animalism 1
+Blood Apocryphia
+Auspex 1
 
 ### Backgrounds
 
 
 
 ### Virtues
-Conviction: 
-Self-Control:
-Courage:
+Conviction: 4
+Self-Control: 3
+Courage: 3
 
 ### Merits
 
@@ -95,7 +97,7 @@ Courage:
 ### Other Traits
 Road: Road of Bones
 Aura: Silence
-Willpower:
+Willpower: 6
 
 ### Clan Weakness
 
