@@ -1,0 +1,1 @@
+Character 1 (link) owes Character 2 (link) for insert action here (link to game notes)
