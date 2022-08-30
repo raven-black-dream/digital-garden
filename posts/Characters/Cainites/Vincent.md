@@ -1,8 +1,6 @@
 ---
 title: "Vincent"
 tags:
-- Template
-- CharacterTemplate
 - Cainite
 ---
 # Vincent
@@ -20,18 +18,18 @@ Ghouls:
 ## Attributes
 ### Physical
 Strength: 3
-Dexterity: 2
+Dexterity: 3
 Stamina: 3
 
 ### Social
-Charisma: 2
-Manipulation: 3
+Charisma: 4
+Manipulation: 4
 Appearance: 0
 
 ### Mental
 Perception: 4
 Intelligence: 3
-Wits: 3
+Wits: 4
 
 ---
 
@@ -76,8 +74,11 @@ Theology: 3
 
 ## Advantages
 ### Disciplines
-Animalism 4
+Animalism 9
 Obfuscate 4
+Potence 1
+Protean 1
+Spiritus 3
 
 ### Backgrounds
 
@@ -107,4 +108,7 @@ Willpower: 8
 ## Other Plot Information
 
 Vincent (Vincentius) - a hunched old Nosferatu that lives in an outpost and mostly refuses to talk directly to other vampires, or humans. Derisively sometimes known as 'the rat man', he has entire legions of rat ghouls, and a few other creatures. [[Quinn]] and [[Thomas]] know / sometimes interact with several of his ghouls.
-about 1200 years old starting arc 2 (circa 300)
+
+About 1200 years old starting arc 2 (circa 300)
+
+Vincent was in torpor during last story arc.

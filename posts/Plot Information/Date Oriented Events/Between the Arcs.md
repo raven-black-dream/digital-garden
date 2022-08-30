@@ -18,5 +18,5 @@ title: "Between the Arcs"
 ![[Sorin#Between the Arcs]]
 
 ## Salamah
-![[Salamah#Between the Arcs]]
+![[Salamah bint Alzilal#Between the Arcs]]
 

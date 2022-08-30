@@ -4,15 +4,16 @@ tags:
 - Major
 ---
 
-# Lasombra's Blood Hunt
+# Salamah's Blood Hunt
 ## Primary Character Focus
-- [[Salamah]]
+- [[Salamah bint Alzilal]]
 
 ## Main Goal
 Text goes here
 
 ## Steps to Achieve
- - Ordered list of steps to complete the main goal
+ - Milanese Lasombra interaction in Florence
+ - Discovery of [[Salamah bint Alzilal]]
 
 ## Smaller Arcs
 Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.

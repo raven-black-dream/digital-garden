@@ -10,7 +10,8 @@ tags:
 - 
 
 ## Main Goal
-Text goes here
+- Investigation-focused
+- Gargoyles from the original Tremere Chantry
 
 ## Steps to Achieve
  - Ordered list of steps to complete the main goal

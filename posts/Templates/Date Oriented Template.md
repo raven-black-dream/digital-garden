@@ -20,5 +20,5 @@ tags:
 ![[Sorin#{{title}}]]
 
 ## Salamah
-![[Salamah#{{title}}]]
+![[Salamah bint Alzilal#{{title}}]]
 

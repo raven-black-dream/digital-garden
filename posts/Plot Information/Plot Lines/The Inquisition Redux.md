@@ -10,7 +10,7 @@ tags:
 - [[Andrea Vasari]]
 - [[Carlo du Vido]]
 - [[Sorin]]
-- [[Salamah]]
+- [[Salamah bint Alzilal]]
 
 ## Main Goal
 Text goes here

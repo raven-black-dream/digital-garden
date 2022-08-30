@@ -11,7 +11,7 @@ Player: #NonPlayerCharacter
 Clan: [[Lasombra]]
 Generation:
 Sire:
-Childer: [[Salamah]]
+Childer: [[Salamah bint Alzilal]]
 Ghouls:
 
 ---

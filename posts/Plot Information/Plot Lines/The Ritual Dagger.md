@@ -22,4 +22,7 @@ Will depend strongly on Player choices.  Once I have better outlines of the time
 - Also an unordered list of smaller arcs (preferrably links)
 
 ## Setup
-Text describing the beginning of the arc. 
+
+Andrea has been able to find that the knife is an athame (ritual knife), and that it was a focus for one of the Tremere. But he doesn't know the specifics of the ability - other than that blood that is spilled on it stays fresh almost indefinitely in the sheathe.
+
+The dagger makes certain spells easier. (thaumaturgy, or other blood sorcery)

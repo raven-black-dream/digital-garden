@@ -22,3 +22,8 @@ Will depend strongly on Player choices.  Once I have better outlines of the time
 
 ## Setup
 Text describing the beginning of the arc. 
+
+- Trying to reassert dominance in the city
+- Trying to regain chantry resources
+- Starting with diplomacy - doesn't go the way they want it to
+- Majority of library assimilated into Florence library - potential secret library linked to [[Veronica's Notes]]

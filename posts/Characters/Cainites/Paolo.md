@@ -1,19 +1,19 @@
 ---
-title: "Maria (True Brujah)"
+title: "Paolo"
 tags:
-- Template
-- CharacterTemplate
 - Cainite
-- TrueBrujah
+- Methusela
 ---
-# Maria (True Brujah)
+
+# Paolo
+- [ ] #todo Fill out character document
 ---
 ## Basic Info
-Player: 
-Clan:
+Player: #NonPlayerCharacter 
+Clan: [[Lasombra]]
 Generation:
 Sire:
-Childer:
+Childer: [[Francesco Sforza]], [[Piero Rosso]]
 Ghouls:
 
 ---
@@ -103,6 +103,13 @@ Willpower:
 ### Nature
 
 ### Demeanor
-
 ---
-## Other Plot Information
+
+## Other Plot Notes
+After being sent packing last Chronicle Paulo and the other Lasombra have been keeping an eye on the city of Florence. 
+
+Francesco has been keeping an ear out for news of Andrea. Though, that will depend fairly strongly on what Katrina wants to have happen with that particular plot point.
+
+Perhaps Paulo will make some kind of return in the next chronicle. But, I am not sure what role he might have in a broader story arc.
+
+ Thinks Francesco = Ventrue/Toreador hybrid, not a real Lasombra

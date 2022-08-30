@@ -107,3 +107,4 @@ Monk
 Noddist
 Road of Heaven
 Attended the Feast of Folly, able to answer all questions
+Runs a very different Elysium than Pietro

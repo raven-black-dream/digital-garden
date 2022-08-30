@@ -18,6 +18,14 @@ Marcus is suspicious of Guido - not very Brujah-like. More sus now that clan mem
 
 Of the Brujah who are left, some are calmer than regular Brujah (not True, except Maria), some fighting a different fight against the church
 
+
 ## Plans
 
 ## Stance on Marcus
+- Marcus has his boot heel on the primogen council - all violence in the city must be sanctioned
+- Brujah have been having duels to first yield rather than scrappy brawls
+- Guido knows the "civilized method" isn't working, but it's holding for now
+- Simmering tensions in Brujah clan
+
+
+

@@ -7,7 +7,7 @@ tags:
 
 # Salamah's Blood Hunt
 ## Primary Character Focus
-- [[Salamah]]
+- [[Salamah bint Alzilal]]
 
 ## Main Goal
 Text goes here
@@ -18,7 +18,9 @@ Text goes here
 ## Smaller Arcs
 Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.
 
-- Also an unordered list of smaller arcs (preferrably links)
+- [[Francesco's Curiosity]] - inciting incident
+- [[Ashe's Peace]] - forces Salamah to leave the city
+- Paulo interested in Salamah's research
 
 ## Setup
 Text describing the beginning of the arc. 

@@ -11,11 +11,11 @@ tags:
 - [[Andrea Vasari]]
 - [[Carlo du Vido]]
 - [[Sorin]]
-- [[Salamah]]
+- [[Salamah bint Alzilal]]
 
 
 ## Main Goal
-Kill or Banish the hungry shade, and prove one way or the other the [[Salamah]]'s involvement. 
+Kill or Banish the hungry shade, and prove one way or the other the [[Salamah bint Alzilal]]'s involvement. 
 
 ## Steps to Achieve
  - Recieve note from [[Pietro]]

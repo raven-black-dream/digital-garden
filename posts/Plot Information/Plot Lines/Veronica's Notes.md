@@ -10,7 +10,7 @@ tags:
 - [[Andrea Vasari]]
 - [[Carlo du Vido]]
 - [[Sorin]]
-- [[Salamah]]
+- [[Salamah bint Alzilal]]
 
 ## Main Goal
 Decode the Harpy's Notes
@@ -26,6 +26,7 @@ Decode the Harpy's Notes
 Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.
 
 - [[Brother Antonio]] - Cappadocian Noddist
+- [[The Tremere]] - secret library within the chantry
 
 ## Setup
 Marcus sits stewing. It has been 40 years and the best minds in this Cain Forsaken City couldn't turn up whatever book his incompetent Childer's Harpy used for her cypher. The City hangs on tenter hooks awaiting the resolution of this problem. The system of weights and measures in the City was broken. 

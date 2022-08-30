@@ -11,7 +11,7 @@ tags:
 - [[Andrea Vasari]]
 - [[Carlo du Vido]]
 - [[Sorin]]
-- [[Salamah]]
+- [[Salamah bint Alzilal]]
 - [['abd al Dhami]]
 
 
@@ -28,6 +28,30 @@ Will depend strongly on Player choices.  Once I have better outlines of the time
 
 ## Setup
 
-Yet again, hunters at his door. When would they learn that he was not as easy to claim as a Visier? At least they weren't sending teams after him any more. That was always more complicated. The tacit support of the Prince helps the situation a little. 
+Yet again, hunters at his door. When would those fools learn that he was not as easy to claim as a Visier? The tacit support of the Prince helps the situation a little. But, it has been decades. This Farce must end. 
 
-The city had returned to a tense state of equilibrium. The catacombs were quiet. He was far from Elysium now, taking the round about way to his Haven. One never knows when one might be followed. The 'Meeting' was a very poorly disguised ambush. 
+The city had returned to a tense state of equilibrium. The catacombs were quiet. He was far from Elysium now, taking the round about way to his Haven. One never knows when one might be followed. 
+
+The door of his Haven was slightly ajar. His dagger in hand 'abd fades from view as he slipped through the door. Stalking through the halls of his Haven his senses keen. His muscles loose, relaxed. The only tension in his body in his legs, as he balanced on the knife's edge. No one here. He storms into the room where his collection is kept. The cabinet is open. 
+
+NO! One of the Tremere in missing. Who!?! 
+
+His beast rises in the back of his mind. In a blink he is back in the catacombs sprinting towards Marcus's office. 
+
+In Marcus's office:
+
+The door is thrown open, and 'abd  standing in the entryway. Dagger clutched in his hand, fire in his eyes. 
+
+"Someone stole from my collection, Marcus. I will have my property back. I will find the person who stole it. I will hunt them, I will have their Blood, Marcus."
+
+"Take a breath, my friend. We will get your property back."
+
+"No, Marcus! I was informing you of my next course of action. Not asking for permission."
+
+"I cannot have you staking the whole court until you find the perpetrator, my friend. We need to take this in a more even handed way. You need to sit down, and breathe, I will put the Searchers on it. They have shown some amount of promise."
+
+
+## Notes
+- Thief is young enough to not know of Giovanna's death/choices - 'abd is a boogeyman, not real. The thief is convinced to "break in" to the haven and steal something. They later bite the vial as per the "legends" and windup diablarizing the Tremere Leader that was in the vial, and are possessed.
+- Vial stolen is one of the Tremere leadership vial
+- Marcus convinces 'abd to let the coterie find the offender so 'abd doesn't stake the entire court

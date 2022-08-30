@@ -10,7 +10,7 @@ tags:
 ---
 ## Basic Info
 Player: #NonPlayerCharacter
-Clan: [[Banu Haquim]]
+Clan: [[Banu Haqim]]
 Generation: 
 Sire:
 Childer: None
@@ -20,7 +20,7 @@ Ghouls:
 
 ## Attributes
 ### Physical
-Strength: 4
+Strength: 5
 Dexterity: 5
 Stamina: 3
 
@@ -30,7 +30,7 @@ Manipulation: 3
 Appearance: 2
 
 ### Mental
-Perception: 2
+Perception: 3
 Intelligence: 3
 Wits: 3
 
@@ -38,10 +38,10 @@ Wits: 3
 
 ## Abilities
 ### Talents
-Alertness: 2
+Alertness: 3
 Athletics: 3
 Awareness: 2
-Brawl: 4
+Brawl: 5
 Empathy:
 Expression:
 Intimidation: 3
@@ -79,8 +79,8 @@ Theology: 1
 ### Disciplines
 
 Celerity: 3
-Obfuscate: 4
-Quietus Cruscitus: 4
+Obfuscate: 5
+Quietus Cruscitus: 5 (level 5 - Rapturous Touch)
 
 
 ### Backgrounds
@@ -115,7 +115,19 @@ Willpower: 7
 -   The Penitent atones for the grave sin she commits simply by being who she is and feels compelled to “make up” for inflicting herself on the world.
 
 ---
+## The Legend
+They say he's a ghost. A shadow. That he doesn't exist. But he does, you'll just never see him coming.
+
+- He's a boogeyman to scare neonates because the elders aren't scary enough
+- Marcus has his boot heel on the Primogen Council's neck - so the elders seem like they're all talk - order in the city
+- Hasn't been seen for a long time
+- Deterrent for the Sabbat
+- Occasionally Cainities go missing
+
+
 ## Notes
+- Respect for Saulot - led to hatred of the Tremere because they were not worthy of the diablerie
+- Just barely on the social/human side of Ashe-level feral
 
 ### Quietus (Cruscitus)
 
@@ -293,4 +305,7 @@ Contacts are people you can manipulate or coerce into offering information. Mino
 
 After the events of the last chronicle 'Abd is withdrawn. He has spent the last 40 years dealing with a variety of attempts on his life, including via the Blood Hunt called on his clan by the Camarilla.
 
-'abd took advantage of the aftermath of the Gargoyle Revolt to kill the last vestiges of Clan [[Tremere]] in the city after they placed a Blood Curse on the entirety of Clan [[Banu Haquim]]
+'abd took advantage of the aftermath of the Gargoyle Revolt to kill the last vestiges of Clan [[Tremere]] in the city after they placed a Blood Curse on the entirety of Clan [[Banu Haqim]]
+
+'Abd has Rapturous Touch due to having studied to find a way around the Blood Curse. Doesn't tell other Banu Haqim due to his anger at them allowing the blood curse to happen
+ - Tremere leadership is in [[The Collection]]

@@ -79,6 +79,7 @@ Theology: 0
 Animalism 3
 Auspex 1
 Blood Apocrypha
+Celerity 1
 Fortitude 1
 Obfuscate 3
 Potence 1
@@ -88,8 +89,8 @@ Contacts - 1 - Prospero da Vigo
 Alternate Identity - 2 - Leonello Donato
 
 ### Virtues
-Conscience/Conviction: 3
-Self-Control/Instinct: 3
+Conscience: 3
+Self-Control: 3
 Courage: 4
 
 ### Merits
@@ -106,7 +107,7 @@ Demon hounded (imp level) 1
 
 ### Other Traits
 Road: 5 - Humanity
-Aura: 
+Aura: Human - no modifier
 Willpower: 10
 
 ### Clan Weakness
@@ -428,7 +429,7 @@ He demands the diablerist Cosimo mentioned come forward, Giovanna steps forward 
 ### [[Between the Arcs]]
 He buries Gianna at the manor, and has Luca be the messenger to tell Gianna's son a story that Gianna risked her life to save a visiting wealthy merchant from a murderer, but died in the process. In thanks the wealthy merchant set up a representative ([[Luca]]) to ensure that the remaining family was taken care of at least until they were of age. (Subtext of wealthy merchant is traveling far, far away, don't bother trying to track them down to meet them or anything.)
 
-Andrea is horrified by what [[Paulo]] chose to do to and then with the shell of Piero, and does not want to help or associate with Paulo in any way whatsoever
+Andrea is horrified by what [[Paolo]] chose to do to and then with the shell of Piero, and does not want to help or associate with Paulo in any way whatsoever
 
 Andrea doesn't use [[Ernst]]'s chapel, but he respectfully does upkeep on it in case Ernst ever comes back, and stocks it for emergencies. The old manor is slowly rebuilt, with an eye for security, with as nonflammable materials as possible.
 
@@ -439,3 +440,5 @@ Andrea doesn't use [[Ernst]]'s chapel, but he respectfully does upkeep on it in 
 Upon touring [[Maria]] around to show her cainite places as a new ghoul, [[Nico]] complains about finding library help ([[Ercole]] died investigating the abyss during the inquisition period), and Andrea arranges Maria to work in the library for Nico long term in exchange for continuing training on Auspex from Nico.
 
 Andrea learns Fortitude; this presents as damage simply working into his shifting curse as he ignores it. He also learns Blood Apocrypha, and spends significant amounts of time working on his speed while exploring the catacombs further.
+
+Andrea is able to find that the dagger he was given is an athame (ritual knife), and that it was a focus for one of the Tremere. But he doesn't know the specifics of the ability - other than that blood that is spilled on it stays fresh almost indefinitely in the sheathe.

@@ -1,20 +1,19 @@
 ---
-title: "Maria (True Brujah)"
+title: "Salubri"
 tags:
 - Template
 - CharacterTemplate
 - Cainite
-- TrueBrujah
 ---
-# Maria (True Brujah)
+# Salubri
 ---
 ## Basic Info
-Player: 
-Clan:
-Generation:
-Sire:
-Childer:
-Ghouls:
+Player: #NonPlayerCharacter 
+Clan: [[Clans/Salubri]]
+Generation: 7th
+Sire: Unknown
+Childer: None
+Ghouls: None
 
 ---
 

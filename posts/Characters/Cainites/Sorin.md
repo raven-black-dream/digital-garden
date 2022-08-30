@@ -6,12 +6,12 @@ tags:
 ---
 
 # Sorin
-- [ ] #todo Fill out character document
+- [x] #todo Fill out character document
 ---
 ## Basic Info
 Player: [[Wes]]
 Clan: [[Tzimisce]]
-Generation:
+Generation: 11
 Sire: [[Tihomir Cel Bun]]
 Childer:
 Ghouls: [[Balc]]
@@ -20,89 +20,108 @@ Ghouls: [[Balc]]
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 3
+Dexterity: 3
+Stamina: 4
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 3
+Manipulation: 3
+Appearance: 1
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 2
+Intelligence: 4
+Wits: 2
 
 ---
 
 ## Abilities
 ### Talents
 Alertness:
-Athletics:
-Awareness:
-Brawl:
-Empathy:
+Athletics: 2
+Awareness: 1
+Brawl: 4
+Empathy: 1
 Expression:
-Intimidation:
+Intimidation: 2
 Leadership:
 Legerdemain:
 Subterfuge:
 
 ### Skills
-Animal Ken:
+Animal Ken: 3
 Archery:
-Commerce:
+Commerce: 1
 Crafts:
-Etiquette:
+Etiquette: 2
 Melee:
 Performance:
-Ride:
-Stealth:
+Ride: 1
+Stealth: 2
 Survival:
+Body Crafts: 3
 
 ### Knowledges
 Academics:
 Enigmas:
-Hearth Wisdom:
+Hearth Wisdom: 2
 Investigation:
 Law:
-Medicine:
+Medicine: 2
 Occult:
 Politics:
 Seneshal:
-Theology:
+Theology: 1
 
 ---
 
 ## Advantages
 ### Disciplines
 
+- Animalism: 2
+- Auspex: 1
+- Celerity: 1
+- Fortitude: 1
+- Potence: 1
+- Vicissitude: 5
 
 
 ### Backgrounds
-
+- Retainer (Trader): 1
+- Contact (Romanian Kindred): 1
+- Resources: 2
+- Generation: 1
 
 
 ### Virtues
-Conscience/Conviction: 
-Self-Control/Instinct:
-Courage:
+Conscience/Conviction: 3
+Self-Control/Instinct: 3
+Courage: 4
 
 ### Merits
 
+* Sturdy - 4
+* Common Sense - 1
+
+
 ### Flaws
+* Enemy (Sire) - 3
+* Nightmares - 1
+* Prey Exclusion (Women) - 1 
 
 ### Other Traits
-Road:
-Aura:
-Willpower:
+Road: Road of Metamorphosis 6
+Aura: 
+Willpower: 5
 
 ### Clan Weakness
 
-### Nature
+### Nature 
+* Creep Show
 
 ### Demeanor
+- Curmudgeon
 
 ---
 ## Back Story

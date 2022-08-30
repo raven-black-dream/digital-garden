@@ -1,8 +1,6 @@
 ---
 title: "Volta"
 tags:
-- Template
-- CharacterTemplate
 - Cainite
 ---
 # Volta

@@ -1,17 +1,21 @@
 ---
-title: "Fratellino's Temptation"
+title: "Carlo's Children"
 tags:
+- Template
 - PlotArc
 - Minor
 ---
 
-# Fratellino's Temptation
+# Carlo's Children
+
 ## Primary Character Focus
-- [[Andrea Vasari]]
-- [[Fratellino]]
+- [[Carlo du Vido]]
+
+### Notes
+Carlo may know about one of the chlidren. Possibly married the mother off to one of his men to take care of the situation. A few other ideas may be fun.
 
 ## Main Goal
-This arc will be an exploration of Fratellino's attempts to sway Andrea into a contract with himself or another higher demon.
+Text goes here
 
 ## Steps to Achieve
  - Ordered list of steps to complete the main goal
