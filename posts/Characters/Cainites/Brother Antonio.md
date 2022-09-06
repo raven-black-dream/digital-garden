@@ -18,63 +18,66 @@ Ghouls:
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 3
+Dexterity: 2
+Stamina: 3
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 3
+Manipulation: 2
+Appearance: 1
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 4
+Intelligence: 4
+Wits: 2
 
 ---
 
 ## Abilities
 ### Talents
-Alertness:
+Alertness: 2
 Athletics:
-Awareness:
+Awareness: 2
 Brawl:
-Empathy:
+Empathy: 3
 Expression:
 Intimidation:
-Leadership:
+Leadership: 2
 Legerdemain:
-Subterfuge:
+Subterfuge: 2
 
 ### Skills
-Animal Ken:
+Animal Ken: 1
 Archery:
 Commerce:
-Crafts:
-Etiquette:
+Crafts: 2
+Etiquette: 2
 Melee:
 Performance:
 Ride:
-Stealth:
-Survival:
+Stealth: 
+Survival: 
 
 ### Knowledges
-Academics:
-Enigmas:
+Academics: 4
+Enigmas: 2
 Hearth Wisdom:
-Investigation:
+Investigation: 1
 Law:
 Medicine:
-Occult:
+Occult: 3
 Politics:
 Seneshal:
-Theology:
+Theology: 4
 
 ---
 
 ## Advantages
 ### Disciplines
+Auspex - 4
+Fortitude - 2
+Necromancy - 4
 
 
 
@@ -83,18 +86,18 @@ Theology:
 
 
 ### Virtues
-Conscience/Conviction: 
-Self-Control/Instinct:
-Courage:
+Conscience/Conviction: 4
+Self-Control/Instinct: 4
+Courage: 2
 
 ### Merits
 
 ### Flaws
 
 ### Other Traits
-Road:
+Road: Heaven - Christ - 
 Aura:
-Willpower:
+Willpower: 8
 
 ### Clan Weakness
 

@@ -4,6 +4,7 @@ tags:
 - Template
 - CharacterTemplate
 - Cainite
+- Diablerized
 ---
 # Christoforo d'Este
 ---

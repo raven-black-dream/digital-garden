@@ -1,16 +1,14 @@
 ---
-title: "Lena da Faenza"
+title: "Dina"
 tags:
 - Cainite
-- Elder
 ---
-
-# Lena da Faenza
+# Dina
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
-Clan: [[Ventrue]]
-Generation:
+Clan: #DaughterOfCacophony
+Generation: 
 Sire:
 Childer:
 Ghouls:
@@ -21,83 +19,83 @@ Ghouls:
 ### Physical
 Strength: 1
 Dexterity: 3
-Stamina: 5
+Stamina: 2
 
 ### Social
-Charisma: 4
-Manipulation: 4
-Appearance: 4
+Charisma: 3
+Manipulation: 2
+Appearance: 3
 
 ### Mental
 Perception: 3
-Intelligence: 3
-Wits: 4
+Intelligence: 4
+Wits: 3
 
 ---
 
 ## Abilities
 ### Talents
-Alertness: 
+Alertness: 2
 Athletics:
 Awareness:
 Brawl:
 Empathy: 2
-Expression: 2
-Intimidation: 4
-Leadership: 5
+Expression: 1
+Intimidation:
+Leadership:
 Legerdemain:
-Subterfuge: 3
+Subterfuge:
 
 ### Skills
-Animal Ken 2
-Archery: 2
-Commerce: 5
-Crafts:
-Etiquette: 4
-Melee: 2
-Performance:
-Ride: 3
+Animal Ken: 1
+Archery:
+Commerce:
+Crafts: 3
+Etiquette: 2
+Melee:
+Performance: 5
+Ride:
 Stealth:
 Survival:
 
 ### Knowledges
-Academics:
+Academics: 
 Enigmas:
-Hearth Wisdom:
-Investigation: 2
-Law: 4
-Medicine:
-Occult: 2
-Politics: 5
-Seneshal: 5
-Theology:
+Hearth Wisdom: 3
+Investigation: 3
+Law: 
+Medicine: 1
+Occult: 1
+Politics:
+Seneshal:
+Theology: 5
 
 ---
 
 ## Advantages
 ### Disciplines
-Dominate - 5
-Presence - 4
-Fortitude - 8 - Armored Flesh
+Menpominee - 2
+Presence - 1
+Fortitude - 1
 
 
 ### Backgrounds
-
-
+Influence - Church - 3
+Contacts - 2
 
 ### Virtues
-Conscience/Conviction: 3
+Conscience/Conviction: 4
 Self-Control/Instinct: 4
-Courage: 5
+Courage: 2
 
 ### Merits
 
 ### Flaws
 
 ### Other Traits
-Road: Kings - 7
+Road: Heaven - Christ 8
 Aura:
-Willpower: 8
+Willpower: 9
 
 ### Clan Weakness
 

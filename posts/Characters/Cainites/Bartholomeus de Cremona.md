@@ -18,83 +18,88 @@ Ghouls:
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 2
+Dexterity: 1
+Stamina: 3
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 2
+Manipulation: 4
+Appearance: 4
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 3
+Intelligence: 4
+Wits: 2
 
 ---
 
 ## Abilities
 ### Talents
-Alertness:
+Alertness: 1
 Athletics:
 Awareness:
 Brawl:
-Empathy:
+Empathy: 1
 Expression:
-Intimidation:
+Intimidation: 2
 Leadership:
 Legerdemain:
-Subterfuge:
+Subterfuge: 1
 
 ### Skills
-Animal Ken:
+Animal Ken: 2
 Archery:
-Commerce:
+Commerce: 4
 Crafts:
-Etiquette:
+Etiquette: 3
 Melee:
 Performance:
-Ride:
-Stealth:
-Survival:
+Ride: 2
+Stealth: 
+Survival: 1
 
 ### Knowledges
-Academics:
+Academics: 2
 Enigmas:
 Hearth Wisdom:
-Investigation:
+Investigation: 2
 Law:
 Medicine:
 Occult:
-Politics:
-Seneshal:
+Politics: 2
+Seneshal: 4
 Theology:
 
 ---
 
 ## Advantages
 ### Disciplines
-
+Dominate - 0
+Presence - 4
+Fortitude - 3
+Auspex - 2
 
 
 ### Backgrounds
-
+Contacts - 2
+Influence - banker's guild - 2
+Resources - 4
 
 
 ### Virtues
-Conscience/Conviction: 
-Self-Control/Instinct:
-Courage:
+Conscience/Conviction: 3
+Self-Control/Instinct: 3
+Courage: 4
 
 ### Merits
 
 ### Flaws
 
 ### Other Traits
-Road:
+Road: Humanity
 Aura:
-Willpower:
+Willpower: 7
 
 ### Clan Weakness
 
@@ -105,3 +110,4 @@ Willpower:
 ## Other Plot Information
 Accountant-like
 Emotional support abacus
+New Harpy [[The Court of Florence]]
