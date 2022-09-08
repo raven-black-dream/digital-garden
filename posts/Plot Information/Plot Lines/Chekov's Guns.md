@@ -6,7 +6,6 @@ To be aware of:
 -       Brother Thomas’s journal
 	o   Interaction with Maria
 	o   Gave book to Scourge
--      Book retrieved from Alessandra – what was it? – linked with Nico and/or Ercole
 -      Andrea owes a boon to Pietro (unrecorded – Blood Appocrypha)
 -       Carlo owes a boon to Andrea
 -       Carlo owes Pietro (unrecorded)

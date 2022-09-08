@@ -1,17 +1,17 @@
 ---
-title: "Sorin's Sire"
+title: "Lactu's Boon"
 tags:
 - PlotArc
-- Major
 ---
 
-# Sorin's Sire
+# Lactu's Boon
+
 ## Primary Character Focus
 - [[Sorin]]
-- [[Tihomir Cel Bun]]
+- [[Lactu]]
 
 ## Main Goal
-Sire sends hunters(bounty)(kine? Kindred?) after Sorin
+Latcu flees Bucharest? (Why?)(Sorin would owe a boon)
 
 ## Steps to Achieve
  - Ordered list of steps to complete the main goal

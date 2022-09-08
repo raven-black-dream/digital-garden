@@ -5,12 +5,11 @@
 	2. [[Francesco's Curiosity]]
 	3. [[Leonello's Resentment]]
 	5. [[The Hungry Shade]]
-	6. Sorin?
 2. [[Ashe's Peace]]
 	1. [[The Ritual Dagger]]
 	2. [[The Salubri Visitor]]
 	3. [[The Collection]]
-	4. Sorin?
+	4. [[Sorin's Sire]]
 3. [[Salamah's Blood Hunt]]
 	1. 
 4. [[The Inquisition Redux]]

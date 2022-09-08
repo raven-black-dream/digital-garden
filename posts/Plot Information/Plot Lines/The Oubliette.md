@@ -1,17 +1,17 @@
 ---
-title: "Sorin's Sire"
+title: "The Oubliette"
 tags:
+- Template
 - PlotArc
-- Major
 ---
 
-# Sorin's Sire
+# The Oubliette
+
 ## Primary Character Focus
-- [[Sorin]]
-- [[Tihomir Cel Bun]]
+- [[Salamah bint Alzilal]]
 
 ## Main Goal
-Sire sends hunters(bounty)(kine? Kindred?) after Sorin
+Text goes here
 
 ## Steps to Achieve
  - Ordered list of steps to complete the main goal

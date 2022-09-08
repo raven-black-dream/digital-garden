@@ -4,22 +4,18 @@ tags:
 - Minor
 ---
 
-# Lucia's Addiction
+# Lucia in Trouble
 
 ## Primary Character Focus
 - [[Andrea Vasari]]
 - [[Lucia]]
 
 ## Main Goal
-Text goes here
+There will be some amount of trouble that Lucia would cause to Andrea. I am not sure what this is yet though.
 
 ## Steps to Achieve
  - Ordered list of steps to complete the main goal
 
-## Smaller Arcs
-Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.
-
-- Also an unordered list of smaller arcs (preferrably links)
 
 ## Setup
 Text describing the beginning of the arc. 

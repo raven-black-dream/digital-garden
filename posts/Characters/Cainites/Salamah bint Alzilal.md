@@ -17,8 +17,6 @@ Childer:
 Ghouls:
 
 ---
-Lore by Night - Podcast ep94 Obten etc.
-
 ## Attributes
 ### Physical
 Strength: 1
@@ -178,3 +176,18 @@ There is another tale, fiercely denied by the Sabbat. It tells that Lasombra all
 Salamah believes that Lasombra - theoretically diablerized in 1483 - still exists in some form within the Abyss. It has become a goal of hers, somewhat subconsciously, to search for Lasombra through her Abyssal studies.
 
 https://whitewolf.fandom.com/wiki/Abyss_Mysticism
+
+Potential Plots:
+- The Oubliette
+	- Something to do with her oubliette - not sure what
+- The Request
+	- A request for Amaranth - made if an elder is causing problems
+- The Interloper or Abyssal Duel
+	- Something with the Ramanga
+
+Ramanga
+- V20DA - Obtenebration, Presence, Obfuscate
+	- Laibon are only mentioned in the Bonsam, which have Abombwe, which could work for Aizina - with some tweaks
+- DA - Aizina (Obtenebration), Presence, Obfuscate
+- Struggle with Abyss Mysticism (are told they can't use it)
+- Combo disciplines with Obten/Presence and Obfuscate/Presence

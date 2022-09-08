@@ -74,8 +74,8 @@ Theology: 5
 
 ## Advantages
 ### Disciplines
-Menpominee - 2
-Presence - 1
+Menpominee - 3
+Presence - 2
 Fortitude - 1
 
 

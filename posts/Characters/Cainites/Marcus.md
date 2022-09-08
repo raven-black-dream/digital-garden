@@ -6,82 +6,84 @@ tags:
 ---
 
 # Marcus
-- [ ] #todo Fill out character document
+- [x] #todo Fill out character document
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
 Clan: [[Ventrue]]
-Generation:
-Sire:
-Childer:
-Ghouls:
+Generation: 5
+Sire: 
+Childer: Many None LIfe in Florence
+Ghouls: Many Coterie will not interact them
 
 ---
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 2
+Dexterity: 1
+Stamina: 3
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 3
+Manipulation: 4
+Appearance: 3
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 4
+Intelligence: 4
+Wits: 4
 
 ---
 
 ## Abilities
 ### Talents
-Alertness:
+Alertness: 3
 Athletics:
-Awareness:
+Awareness: 3
 Brawl:
-Empathy:
-Expression:
-Intimidation:
-Leadership:
+Empathy: 4
+Expression: 5
+Intimidation: 5
+Leadership: 5
 Legerdemain:
-Subterfuge:
+Subterfuge: 5
 
 ### Skills
-Animal Ken:
+Animal Ken: 2
 Archery:
-Commerce:
+Commerce: 4
 Crafts:
-Etiquette:
-Melee:
+Etiquette: 5
+Melee: 4
 Performance:
-Ride:
+Ride: 3
 Stealth:
-Survival:
+Survival: 2
 
 ### Knowledges
-Academics:
-Enigmas:
+Academics: 4
+Enigmas: 2
 Hearth Wisdom:
 Investigation:
-Law:
+Law: 3
 Medicine:
-Occult:
-Politics:
-Seneshal:
+Occult: 3
+Politics: 5
+Seneshal: 5
 Theology:
 
 ---
 
 ## Advantages
 ### Disciplines
-
-
+- Dominate - 8
+- Presence - 5
+- Fortitude - 6
+- Auspex - 1
 
 ### Backgrounds
-
+Yes
 
 
 ### Virtues
@@ -94,7 +96,7 @@ Courage:
 ### Flaws
 
 ### Other Traits
-Road:
+Road: Road of Kings - 8
 Aura:
 Willpower:
 
@@ -103,3 +105,6 @@ Willpower:
 ### Nature
 
 ### Demeanor
+
+## Other Plot Notes
+

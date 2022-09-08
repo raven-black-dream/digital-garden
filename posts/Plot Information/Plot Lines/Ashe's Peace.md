@@ -19,13 +19,15 @@ Establish a peace treaty between Ashe and the near by Lupine packs
 ## Steps to Achieve
  - Lupine approaches city
  - Lupine audience with Marcus
+ - Possible need to manage a conflict between the Brujah and Marcus
  - Assigning coterie
  - Rest TBD
 
 ## Smaller Arcs
-Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.
-
-- Also an unordered list of smaller arcs (preferrably links)
+1. [[The Ritual Dagger]]
+2. [[The Salubri Visitor]]
+3. [[The Collection]]
+4. [[Sorin's Sire]]
 
 ## Setup
 In the forest near the Median border a pack moot is happening. Voices are raised.

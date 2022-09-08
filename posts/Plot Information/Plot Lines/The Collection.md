@@ -20,11 +20,11 @@ Determine who stole from [['abd al Dhami]]'s collection of stored vials of Heart
 
 ## Steps to Achieve
  - Investigate
+ - Find the particular neonate/group of neonates that are involved in the theft.
+ - There may be some consequences related to the Tremere. Depending on player actions.
 
 ## Smaller Arcs
-Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.
-
-- Also an unordered list of smaller arcs (preferrably links)
+- [[The Tremere]] - Possible consequences.
 
 ## Setup
 
@@ -34,9 +34,7 @@ The city had returned to a tense state of equilibrium. The catacombs were quiet.
 
 The door of his Haven was slightly ajar. His dagger in hand 'abd fades from view as he slipped through the door. Stalking through the halls of his Haven his senses keen. His muscles loose, relaxed. The only tension in his body in his legs, as he balanced on the knife's edge. No one here. He storms into the room where his collection is kept. The cabinet is open. 
 
-NO! One of the Tremere in missing. Who!?! 
-
-His beast rises in the back of his mind. In a blink he is back in the catacombs sprinting towards Marcus's office. 
+His beast rises in the back of his mind. In a blink he is back in the catacombs stalking towards Marcus's office. Menace and Determination flowing from his every movement.
 
 In Marcus's office:
 
@@ -48,7 +46,7 @@ The door is thrown open, and 'abd  standing in the entryway. Dagger clutched in 
 
 "No, Marcus! I was informing you of my next course of action. Not asking for permission."
 
-"I cannot have you staking the whole court until you find the perpetrator, my friend. We need to take this in a more even handed way. You need to sit down, and breathe, I will put the Searchers on it. They have shown some amount of promise."
+"I cannot have you staking the whole court until you find the perpetrator, my friend. We need to take this in a more even handed way. You need to **sit down**, and breathe, I will put the Searchers on it. They have shown some amount of promise."
 
 
 ## Notes

@@ -103,3 +103,4 @@ Willpower:
 
 ---
 ## Other Plot Information
+Currently lives in Bucharest

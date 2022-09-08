@@ -6,8 +6,8 @@ tags:
 ---
 
 # Carlo(Herald)
-- [ ] #todo Fill out character document
-- [ ] #todo What does the Prince have on him?
+- [x] #todo Fill out character document
+- [x] #todo What does the Prince have on him?
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
