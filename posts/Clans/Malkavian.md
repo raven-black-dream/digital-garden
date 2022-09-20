@@ -8,7 +8,7 @@ tags:
 Primogen: [[Filin da Quieto d'Arzenta]]
 
 ## Current State of Affairs
-- [ ] #todo Fill out clan document
+- [x] #todo Fill out clan document
 
 Small clan
 Important clan

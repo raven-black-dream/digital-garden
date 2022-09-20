@@ -6,7 +6,7 @@ tags:
 ---
 
 # Salamah bint Alzilal
-- [ ] #todo Fill out character document
+- [x] #todo Fill out character document
 ---
 ## Basic Info
 Player: [[Jen]]
@@ -57,7 +57,7 @@ Etiquette: 0
 Melee: 3
 Performance: 0
 Ride: 0
-Stealth: 3 + Eavesdropping
+Stealth: 3 + Shadowing
 Survival: 1
 
 ### Knowledges
@@ -115,6 +115,7 @@ Literacy (1)
 Outsider (1)
 Eerie Presence (2)
 Animate Shadow (3)
+Dark Secret (1)
 
 ### Other Traits
 Road: Abyss - 5
@@ -207,7 +208,7 @@ Failing to observe a manifestation of darkness.
 Only through observation can one increase knowledge.
 
 8
-Expressing reverence for creation.
+Expressing reverence for Creation.
 Creation is a blight, a taint of the purity of the Abyss.
 
 7

@@ -42,4 +42,4 @@ In the forest near the Median border a pack moot is happening. Voices are raised
 
 ---
 
-- [ ] #todo Write coterie focused fiction for this arc.
+- [x] #todo Write coterie focused fiction for this arc.

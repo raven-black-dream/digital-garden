@@ -6,7 +6,7 @@ tags:
 ---
 
 # Ashe
-- [ ] #todo Fill out character document
+- [x] #todo Fill out character document
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 

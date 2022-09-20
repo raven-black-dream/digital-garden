@@ -8,7 +8,7 @@ tags:
 Primogen: [[Pietro]]
 
 ## Current State of Affairs
-- [ ] #todo Fill out clan document
+- [x] #todo Fill out clan document
 
 ## Plans
 Hiding and secretive

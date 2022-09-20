@@ -8,7 +8,7 @@ tags:
 Primogen: [[Guidobaldo d'Aquila]]
 
 ## Current State of Affairs
-- [ ] #todo Fill out clan document
+- [x] #todo Fill out clan document
 
 Conflict between Brujah and Guidobaldo (as a True Brujah)
 

@@ -8,7 +8,7 @@ tags:
 Primogen: [[Characters/Cainites/# Lena da Faenza]]
 
 ## Current State of Affairs
-- [ ] #todo Fill out clan document
+- [x] #todo Fill out clan document
 
 ## Plans
 - Expanding influence into Siena (precursor to Florence absorbing the entire territory)

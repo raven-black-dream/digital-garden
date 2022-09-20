@@ -5,7 +5,7 @@ tags:
 ---
 
 # Borso
-- [ ] #todo Fill out character document
+- [x] #todo Fill out character document
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
@@ -94,4 +94,4 @@ Willpower:
 --- 
 
 ## Other Plot Information
-- [ ] #todo Write some info about Borso
+- [x] #todo Write some info about Borso

@@ -10,4 +10,4 @@ The mortals of Florence think of it as a folly. A strange architectural work wit
 The chantry is accessable through the catacombs though. Though a little frought with traps. It is definitely not safe to try to break into the once secret lair of the Tremere.
 
 ## Traps from the Catacomb Side
-- [ ] #todo Come up with a list of traps and a map of the tower. (tardis like)
+- [x] #todo Come up with a list of traps and a map of the tower. (tardis like)

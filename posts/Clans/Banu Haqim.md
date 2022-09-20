@@ -8,7 +8,7 @@ tags:
 Primogen: Officially None | Unofficially: [['abd al Dhami]]
 
 ## Current State of Affairs
-- [ ] #todo Fill out clan document
+- [x] #todo Fill out clan document
 
 ## Plans
 

@@ -6,7 +6,7 @@ tags:
 
 # Lasombra
 ## Current State of Affairs
-- [ ] #todo Fill out clan document
+- [x] #todo Fill out clan document
 
 
 ## Plans

@@ -6,7 +6,7 @@ tags:
 ---
 
 # Carlo du Vido
-- [ ] #todo Fill out character document
+- [x] #todo Fill out character document
 ---
 ## Basic Info
 Player: [[Drew ]]
