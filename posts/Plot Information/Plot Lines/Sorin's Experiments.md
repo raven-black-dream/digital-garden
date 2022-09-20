@@ -1,23 +1,20 @@
 ---
-title: "The Inquiaition Redux"
+title: "Sorin's Experiments"
 tags:
+- Template
 - PlotArc
-- Major
 ---
 
-# The Inquisition Redux
+# Sorin's Experiments
+
 ## Primary Character Focus
-- [[Andrea Vasari]]
-- [[Carlo du Vido]]
-- [[Sorin]]
-- [[Salamah bint Alzilal]]
+-  [[Sorin]]
 
 ## Main Goal
 Text goes here
 
 ## Steps to Achieve
-
- - The return of Ernst
+ - Ordered list of steps to complete the main goal
 
 ## Smaller Arcs
 Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.

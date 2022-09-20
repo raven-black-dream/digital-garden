@@ -5,7 +5,7 @@ tags:
 ---
 
 # Cappadocian
-Primogen:  [[Brother Antonio]]
+Primogen:  [[Characters/Cainites/Brother Antonio]]
 
 ## Current State of Affairs
 - [x] #todo Fill out clan document

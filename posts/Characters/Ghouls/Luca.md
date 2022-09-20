@@ -43,7 +43,7 @@ Brawl: 1
 Empathy: 2
 Expression:
 Intimidation:
-Leadership: 1
+Leadership: 3
 Legerdemain:
 Subterfuge:
 
@@ -104,3 +104,5 @@ tall thin 5'11", dark hair, reedy boy
 
 Start of Arc 1: 18 years old
 Ghouled at 19
+
+40 year time skip xp: leadership (4, 6), left in reserve (2) = 12

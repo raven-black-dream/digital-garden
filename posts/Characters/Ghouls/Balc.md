@@ -7,9 +7,9 @@ tags:
 # Balc
 ---
 ## Basic Info
-Player: 
-Clan:
-Domitor:
+Player: NPC
+Clan: [[Tzimisce]]
+Domitor: [[Sorin]]
 Duties:
 Type:
 
@@ -17,56 +17,58 @@ Type:
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 1
+Dexterity: 2
+Stamina: 3
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 4
+Manipulation: 3
+Appearance: 3
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 3
+Intelligence: 1
+Wits: 4
 
 ---
 
 ## Abilities
 ### Talents
-Alertness:
+Alertness: 3
 Athletics:
-Awareness:
+Awareness: 1
 Brawl:
-Empathy:
-Expression:
+Empathy: 3
+Expression: 2
 Intimidation:
 Leadership:
 Legerdemain:
-Subterfuge:
+Subterfuge: 1
 
 ### Skills
 Animal Ken:
 Archery:
-Commerce:
-Crafts:
-Etiquette:
+Commerce: 4
+Crafts (Blacksmithing): 3
+Crafts (Armoursmithing): 3
+Etiquette: 2
 Melee:
 Performance:
-Ride:
+Ride: 2
 Stealth:
 Survival:
+
 
 ### Knowledges
 Academics:
 Enigmas:
 Hearth Wisdom:
-Investigation:
-Law:
+Investigation: 1
+Law: 2
 Medicine:
-Occult:
-Politics:
+Occult: 1
+Politics: 1
 Seneshal:
 Theology:
 
@@ -74,21 +76,24 @@ Theology:
 
 ## Advantages
 ### Disciplines
-Potence (or one of the physical):
+Potence (or one of the physical): 1
 
 
 ### Backgrounds
-
+Domain: 1
+Resources: 2
+Retainers: 1
+Status: 1
 
 
 ### Virtues
-Conscience/Conviction: 
-Self-Control/Instinct:
-Courage:
+Conscience/Conviction: 2
+Self-Control/Instinct: 4
+Courage: 4
 
 ### Other Traits
-Humanity:
-Willpower:
+Humanity: 8
+Willpower: 5
 
 
 ---

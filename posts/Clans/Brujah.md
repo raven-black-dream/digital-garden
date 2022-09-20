@@ -12,7 +12,7 @@ Primogen: [[Guidobaldo d'Aquila]]
 
 Conflict between Brujah and Guidobaldo (as a True Brujah)
 
-A bunch of Brujah have left
+A bunch of Brujah have left many to join the Anarchs.
 
 Marcus is suspicious of Guido - not very Brujah-like. More sus now that clan members have exited the city en masse
 

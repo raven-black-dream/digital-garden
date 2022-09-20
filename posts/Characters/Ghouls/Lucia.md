@@ -44,8 +44,8 @@ Empathy: 1
 Expression: 1
 Intimidation:
 Leadership:
-Legerdemain:
-Subterfuge:
+Legerdemain: 1
+Subterfuge: 1
 
 ### Skills
 Animal Ken: 3
@@ -56,7 +56,7 @@ Etiquette: 3
 Melee:
 Performance:
 Ride:
-Stealth: 1
+Stealth: 2
 Survival: 2
 
 ### Knowledges
@@ -103,3 +103,5 @@ There should also be some amount of putting her in danger some how. Andrea is ve
 
 5'4"ish, dark hair, dark eyes, olive skin, early 20s (23?)
 Was a new hire when the coterie formed.
+
+40 year time skip xp: stealth (4), subterfuge (3), legerdemain (3), left in reserve (2) = 12

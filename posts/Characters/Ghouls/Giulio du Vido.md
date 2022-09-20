@@ -1,19 +1,19 @@
 ---
-title: "Salubri"
+title: "Giulio du Vido"
 tags:
+- Ghoul
 - Template
 - CharacterTemplate
-- Cainite
 ---
-# Salubri
+
+# Giulio du Vido
 ---
 ## Basic Info
-Player: #NonPlayerCharacter 
-Clan: [[Clans/Salubri]] - Warrior Caste
-Generation: 6th
-Sire: Unknown
-Childer: None
-Ghouls: None
+Player: 
+Clan:
+Domitor:
+Duties:
+Type:
 
 ---
 
@@ -76,7 +76,7 @@ Theology:
 
 ## Advantages
 ### Disciplines
-
+Potence (or one of the physical):
 
 
 ### Backgrounds
@@ -88,20 +88,11 @@ Conscience/Conviction:
 Self-Control/Instinct:
 Courage:
 
-### Merits
-
-### Flaws
-
 ### Other Traits
-Road:
-Aura:
+Humanity:
 Willpower:
 
-### Clan Weakness
-
-### Nature
-
-### Demeanor
 
 ---
 ## Other Plot Information
+Family thinks that he's aging gracefully. (Potential for Masquerade Breach)

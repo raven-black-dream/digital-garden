@@ -11,6 +11,7 @@ tags:
 - [[Carlo du Vido]]
 - [[Sorin]]
 - [[Salamah bint Alzilal]]
+- [[Characters/Cainites/Brother Antonio]]
 
 ## Main Goal
 Decode the Harpy's Notes
@@ -25,7 +26,7 @@ Decode the Harpy's Notes
 ## Smaller Arcs
 Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.
 
-- [[Brother Antonio]] - Cappadocian Noddist
+- [[Plot Information/Plot Lines/Brother Antonio]] - Cappadocian Noddist
 - [[The Tremere]] - secret library within the chantry
 
 ## Setup

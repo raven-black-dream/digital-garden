@@ -60,8 +60,8 @@ Stealth: 1
 Survival: 1
 
 ### Knowledges
-Academics:
-Enigmas:
+Academics: 2
+Enigmas: 1
 Hearth Wisdom: 2
 Investigation: 1
 Law:
@@ -102,3 +102,5 @@ She had been working at the manor for a while, and used to be primarily on the d
 
 start of arc 1: mousy young girl with brown hair and brown eyes, 14 years old
 ghouled during the time skip at age 19
+
+40 year time skip xp: = academics (3, 4), enigmas (3), in reserve (2) = 12

@@ -20,6 +20,7 @@ Young Nos thinks he has dirt on the Prince - lolz ensue
     - Pietro sends Andrea to dissuade the Nos from this course of action
     - Only works if Andrea is the conduit for Pietro
     - Maybe a smaller hook into a bigger plot point
+- Potentially pissed at the Brujah (Carlo specifically) en masse if Borso keeps bothering them in their warrens
 
 ## Stance on Marcus
 

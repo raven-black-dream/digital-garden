@@ -1,23 +1,20 @@
 ---
-title: "The Inquiaition Redux"
+title: "Brother Antonio"
 tags:
+- Template
 - PlotArc
-- Major
 ---
 
-# The Inquisition Redux
+# Brother Antonio
+
 ## Primary Character Focus
-- [[Andrea Vasari]]
-- [[Carlo du Vido]]
-- [[Sorin]]
-- [[Salamah bint Alzilal]]
+- 
 
 ## Main Goal
 Text goes here
 
 ## Steps to Achieve
-
- - The return of Ernst
+ - Ordered list of steps to complete the main goal
 
 ## Smaller Arcs
 Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.

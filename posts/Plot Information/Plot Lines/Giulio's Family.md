@@ -1,23 +1,22 @@
 ---
-title: "The Inquiaition Redux"
+title: "Giulio's Family"
 tags:
+- Template
 - PlotArc
-- Major
 ---
 
-# The Inquisition Redux
+# Giulio's Family
+
 ## Primary Character Focus
-- [[Andrea Vasari]]
 - [[Carlo du Vido]]
-- [[Sorin]]
-- [[Salamah bint Alzilal]]
+- [[Giulio du Vido]]
+- Giulio's Family
 
 ## Main Goal
-Text goes here
+Giulio is a ghoul living his _normal_ life among his family and business partners. Where could that possibly go wrong?
 
 ## Steps to Achieve
-
- - The return of Ernst
+ - Ordered list of steps to complete the main goal
 
 ## Smaller Arcs
 Will depend strongly on Player choices.  Once I have better outlines of the time between periods it will be more useful.

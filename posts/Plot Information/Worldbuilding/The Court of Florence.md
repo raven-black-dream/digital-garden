@@ -33,14 +33,14 @@ In the last decade or so, Marcus has lapsed into his preferred role delegating t
 
 ### Keeper of Elysium
 [[Pietro]] - Previous(Promoted)
-[[Brother Antonio]]
+[[Characters/Cainites/Brother Antonio]]
 
 ## Primogen Council
 ### Brujah
 [[Guidobaldo d'Aquila]]
 
 ### Cappadocian
-[[Brother Antonio]]
+[[Characters/Cainites/Brother Antonio]]
 
 ### Gangrel
 [[Carlo(Herald)]]
