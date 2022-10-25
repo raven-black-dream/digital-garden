@@ -1,14 +1,19 @@
 ---
-title: "Marco"
+title: "Cardinal Ricardo"
 tags:
-- Mortal
-- ManorStaff
+- Template
+- CharacterTemplate
+- Cainite
 ---
-
-# Marco
+# Cardinal Ricardo
 ---
 ## Basic Info
-Player: #NonPlayerCharacter 
+Player: 
+Clan:
+Generation:
+Sire:
+Childer:
+Ghouls:
 
 ---
 
@@ -69,6 +74,11 @@ Theology:
 
 ---
 
+## Advantages
+### Disciplines
+
+
+
 ### Backgrounds
 
 
@@ -78,16 +88,20 @@ Conscience/Conviction:
 Self-Control/Instinct:
 Courage:
 
+### Merits
+
+### Flaws
+
 ### Other Traits
-Humanity:
+Road:
+Aura:
 Willpower:
 
+### Clan Weakness
+
+### Nature
+
+### Demeanor
 
 ---
 ## Other Plot Information
-Was a new hire when the coterie was formed in arc 1. He was pretty focused on the well paying aspect of the job and worked as a valet.
-
-Late teens in arc 1 (18?)
-arc 2: 58
-
-Marco has been moved to the evening shift, to accomodate Sorin's Food Preferences.

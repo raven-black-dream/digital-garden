@@ -1,14 +1,16 @@
 ---
-title: "Marco"
+title: "Andrea the Younger"
 tags:
 - Mortal
-- ManorStaff
+- Template
+- CharacterTemplate
 ---
 
-# Marco
+# Andrea the Younger
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
+Parents: [[Maria]] [[Luca]]
 
 ---
 
@@ -85,9 +87,5 @@ Willpower:
 
 ---
 ## Other Plot Information
-Was a new hire when the coterie was formed in arc 1. He was pretty focused on the well paying aspect of the job and worked as a valet.
 
-Late teens in arc 1 (18?)
-arc 2: 58
-
-Marco has been moved to the evening shift, to accomodate Sorin's Food Preferences.
+Luca and Maria's First Child

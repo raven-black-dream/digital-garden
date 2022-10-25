@@ -21,64 +21,67 @@ Ghouls:
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 3
+Dexterity: 3
+Stamina: 4
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 5
+Manipulation: 4
+Appearance: 0
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 2
+Intelligence: 3
+Wits: 3
 
 ---
 
 ## Abilities
 ### Talents
-Alertness:
-Athletics:
-Awareness:
-Brawl: 
-Empathy:
+Alertness: 2
+Athletics: 5
+Awareness: 4
+Brawl: 4
+Empathy: 2
 Expression:
-Intimidation:
-Leadership:
+Intimidation: 3
+Leadership: 2
 Legerdemain:
-Subterfuge:
+Subterfuge: 2
 
 ### Skills
-Animal Ken:
-Archery:
+Animal Ken: 3
+Archery: 1
 Commerce:
 Crafts:
-Etiquette:
-Melee:
+Etiquette: 2
+Melee: 5
 Performance:
-Ride:
-Stealth:
-Survival:
+Ride: 3
+Stealth: 4
+Survival: 2
 
 ### Knowledges
-Academics:
+Academics: 1
 Enigmas:
 Hearth Wisdom:
-Investigation:
+Investigation: 4
 Law:
 Medicine:
-Occult:
-Politics:
-Seneshal:
-Theology:
+Occult: 3
+Politics: 2
+Seneshal: 1
+Theology: 5
 
 ---
 
 ## Advantages
 ### Disciplines
-
+Potence 3
+Obfuscate 3
+Animalism 2
+Auspex 2
 
 
 ### Backgrounds
@@ -86,21 +89,24 @@ Theology:
 
 
 ### Virtues
-Conscience/Conviction: 
-Self-Control/Instinct:
-Courage:
+Conscience/Conviction: 5 (Conviction)
+Self-Control/Instinct: 3 (Self Control)
+Courage: 5
 
 ### Merits
+True Faith 3
 
 ### Flaws
 
 ### Other Traits
-Road:
-Aura:
-Willpower:
+Road: Heaven, Path of Christ (Retribution) 10
+Aura: Holiness - gain bonuses when in situations where being seen as an avenging angel would be a benefit (Intimidation, etc) (-2 difficulty)
+Willpower: 7
 
 ### Clan Weakness
 
 ### Nature
 
 ### Demeanor
+
+No matter how many health boxes he has, he always had 1 point of Aggravated damage.

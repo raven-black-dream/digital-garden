@@ -144,6 +144,8 @@ Animate Shadow (3 points): Your shadow is not merely an absence of light in the 
 
 Eerie Presence (2 points): A pervasive miasma of unease surrounds you. You exude a sense of wrongness that is palpable to mortals. This aura of fear increases the difficulty of Social rolls involving interaction with mortals by two, with the exception of Intimidation rolls.
 
+Dark Secret (1 point): Believes Lasombra to still be a presence inside the Abyss
+
 ## Obtenebration
 ### Shadow Play
 While this ability does not allow characters to create shadows that do not already exist, it allows one to manipulate, move, and animate ambient shadows. This can grant social effects, such as using shadows to make yourself more imposing, or shape an environment to suit your needs, creating areas of shadow in which to hide a person or object. 
@@ -251,9 +253,10 @@ She started sitting in the back of classes and just listening to the lectures an
 
 And it worked. The librarian gave her work to do and a place to sleep. She secretly attended lectures and then discussed the topics with the librarian late into the evening. She was finally finding her place in the world.
 
-(insert more issues here from her sire)
-
-(insert more about why she was jailed - didn't like the previous bit)
+- expelled from uni
+- Death of Librarian
+- Rape?
+- Doesn't really matter what she got put in jail for - can handwave it
 
 Time passed. Years, probably, but she wasn't really sure. All she knew was the darkness of the cell she had been thrown into. Still she held on, confident she'd be able to get out one day.
 
@@ -262,14 +265,17 @@ One day the darkness talked back when she spoke to it. She wasn't entirely surpr
 She does not fully remember her escape. There was a lot of blood and screaming, and she finally felt full as she emerged into the night to see Malik waiting for her.
 
 ### Between the Arcs
+1470ish
+	- met 'abd in Granada after arc 1 - 'abd very distant
 1482-1491 - Granada War
 1483 - Lasombra diablerized
 1491-1497 - Exile from Granada; travelling
 1493 - Convention of Thorns (did not attend)
-1497-1510 - Living in Milan, a Sabbat/Lasombra stronghold; researching the Abyss
-1510-1514 - Leaves the Sabbat; flees Milan for safety; Travels in secret
-1514-1515 - Exchanges letters with 'Abd seeking sanctuary in exchange for (a) favour(s) given in Granada (keeps knowledge of Milan quiet unless she needs extra leverage)
-1515 - Current Year; residing at the Studium Generale (University) for several months while on 'probation.' Currently presumed dead outside of Florence.
+1497-15?? - Living in Milan, a Sabbat/Lasombra stronghold; researching the Abyss
+15??-15?? - Leaves the Sabbat; flees Milan for safety; Travels in secret
+15??-15?? - Exchanges letters with 'Abd seeking sanctuary in exchange for (a) favour(s) given in Granada (keeps knowledge of Milan quiet unless she needs extra leverage)
+	- Takes a chance on sending a letter to Florence after leaving Milan as he may be dead
+15?? - Current Year; residing at the Studium Generale (University) for several months while on 'probation.' Currently presumed dead outside of Florence.
 
 ### Beliefs
 #### Islam
@@ -300,10 +306,16 @@ Ramanga
 - Struggle with Abyss Mysticism (are told they can't use it)
 - Combo disciplines with Obten/Presence and Obfuscate/Presence
 
-Backstory points
-- expelled from uni
-- Death of Librarian
-- Rape
-- Doesn't really matter what she got put in jail for - can handwave it
-- met 'abd in Granada after arc 1 - 'abd very distant
-- Takes a chance on sending a letter to Florence after leaving Milan as he may be dead
+### Physical Description
+- Small stature
+- Big eyes
+- Shaved head (shaves it every night)
+- Clean-shaven
+- Black-skinned - incredibly dark
+- Leather boots (khuff)
+- Silk clothing with gold threadwork - but if you look closer the inside is all backed with black or brown and made stiffer
+	- Yellow hooded cloak (burnus)
+	- Scarlet long-sleeved robe (jubba)
+	- She does wear an undergarment/wrap - in white (izaar)
+- Shadow moves on its own
+	- Your shadow is not merely an absence of light in the shape of your person; it is a living, malicious entity with a will of its own. It lashes out at friends and enemies alike, tearing at the scenery and snarling at passers-by.

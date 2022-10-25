@@ -57,7 +57,7 @@ Etiquette: 1
 Melee: 2
 Performance: 0
 Ride: 1
-Stealth: 2
+Stealth: 2 - Sneak
 Survival: 1
 
 ### Knowledges
