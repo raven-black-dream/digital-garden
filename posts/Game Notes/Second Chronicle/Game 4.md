@@ -197,7 +197,7 @@ Sorin
 - Goes to find Balc
 - Day labourer showed up - was a bit sloppy to start, but managed a solid amount
 - Asks about the book - shopkeeps looked at him like he was crazy
-	- Try the occult shops
+	- Try the occult shops - Not going to be particularly useful (Difficulty 9 roll)
 - The door bolts have come in
 - Asks Balc to get the day labourer to meet him at dusk
 - Heads back to the estate
