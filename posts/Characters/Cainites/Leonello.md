@@ -94,7 +94,7 @@ Courage:
 ### Flaws
 
 ### Other Traits
-Road:
+Road: Beast
 Aura:
 Willpower:
 
@@ -108,3 +108,6 @@ Willpower:
 While formerly being a ghoul to [[Carlo du Vido]] the events of the end of the last chronicle with his near death to the inquisition and subsequent embrace by [[Pietro]] leaving a bad taste in his mouth. 
 
 Leonello is not happy with Carlo's choice to "save him." He would have preferred to have been let die than to face an immortality as a Nosferatu.
+
+Gathering info - Keeping a catalogue of things that might hurt Carlo
+- Family dinners

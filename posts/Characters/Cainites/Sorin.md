@@ -44,7 +44,7 @@ Awareness: 1
 Brawl: 4
 Empathy: 1
 Expression:
-Intimidation: 2
+Intimidation (Specialty: Physical Intimidation): 3
 Leadership:
 Legerdemain:
 Subterfuge:
@@ -83,7 +83,7 @@ Theology: 1
 - Auspex: 1
 - Celerity: 1
 - Fortitude: 1
-- Potence: 1
+- Potence: 2
 - Vicissitude: 5
 
 

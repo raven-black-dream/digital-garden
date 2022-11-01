@@ -175,4 +175,4 @@ He started his small mercenary band with some money from his father and with the
 
 [[Piero du Vido]] - Carlo's other brother. He takes the same view as his father with regard to Carlo. He is often cruel to those he views as lesser.
 
-[[Stella Bruza]] - Carlo's sister. Now that she is married and has as son of herown she has very little time for her youngest brother. She finds him juvenile and wants him to grow up and settle down with someone.
+[[Stella Bruza]] - Carlo's sister. Now that she is married and has as son of her own she has very little time for her youngest brother. She finds him juvenile and wants him to grow up and settle down with someone.

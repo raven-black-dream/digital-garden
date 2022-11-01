@@ -7,7 +7,7 @@ tags:
 
 Date: [[10-04-1515]]
 
-Location: [[Veronica's Haven]]
+Location: [[Veronica's Haven]], [[The Library]], [[D'Este Estate]]
 
 ### GM Notes
 - [ ] Salamah's shadow
@@ -26,7 +26,7 @@ Location: [[Veronica's Haven]]
 - [ ] Individual plot things
 
 ### Game Start
-- Recap
+Recap
 
 Pick up with Sorin in the library, with the sketchbook
 - Heads to Salamah in the bedroom to discuss the fresco
