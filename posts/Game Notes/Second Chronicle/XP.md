@@ -3,5 +3,7 @@ Game 2 = 2
 Game 3 = 2
 Game 4 = 2 (+1 to Salamah and Carlo)
 Game 5 = 2
+Game 6 = 2
+Game 7 = 
 
-Total = 11
+Total = 13

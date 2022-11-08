@@ -77,7 +77,7 @@ Theology: 0
 ## Advantages
 ### Disciplines
 Animalism 3
-Auspex 1
+Auspex 2
 Blood Apocrypha
 Celerity 1
 Fortitude 1

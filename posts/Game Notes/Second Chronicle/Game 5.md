@@ -7,7 +7,7 @@ tags:
 
 Date: [[10-05-1515]]
 
-Location: [[D'Este Estate]]
+Location: [[D'Este Estate]], [[Elysium]], [[The Catacombs]]
 
 ### GM Notes
 - [ ] Salamah's shadow + eerie presence
@@ -22,12 +22,12 @@ Location: [[D'Este Estate]]
 	- [x] Sorin
 		- [x] Just Tzimisce things
 	- [ ] Salamah
-		- [ ] Abyssal Adventures etc.
+		- [x] Abyssal Adventures etc.
 	- [ ] Andrea
 		- [x] Nosferatu Fun Times
 		- [ ] Ghouls Inc.
 
-- [ ] Insert [[The Pet Wight]] fiction at some point
+- [x] Insert [[The Pet Wight]] fiction at some point
 
 ### Game Start
 
@@ -160,7 +160,7 @@ The three separate
 - Andrea goes to talk to Pietro about the Tremere chantry
 	- One person has been there since the Tremere were cleared out
 	- 'abd wouldn't like anyone being sent his way
-	- Andrea - well, no one - has really talked to him in yea
+	- Andrea - well, no one - has really talked to him in years
 	- Andrea may be able to get him a note
 	- Pietro comments about keeping Lucia on a close leash
 		- Andrea is unsure if the one who gave her the note is still around
@@ -182,7 +182,7 @@ The three separate
 - Salamah's Victim - Runs from the house screaming.
 - Andrea and Sorin notice the screaming man
 	- Andrea sends Lucia to try and calm him down and find out what happened
-	- Andrea heads to the estate to try and find otu what happened as well
+	- Andrea heads to the estate to try and find out what happened as well
 	- Lucia rolls 7 successes to help calm down the screaming man. (succeeds a difficutly 8 roll to calm him down)
 
 Game Ends
