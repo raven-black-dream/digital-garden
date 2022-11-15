@@ -1,3 +1,7 @@
+---
+title: "Veronica's Haven"
+---
+
 - Guards posted by Marcus
 - Kept exactly how she left it
 - Spacious estate
