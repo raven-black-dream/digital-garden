@@ -5,5 +5,6 @@ Game 4 = 2 (+1 to Salamah and Carlo)
 Game 5 = 2
 Game 6 = 2
 Game 7 = 2
+Game 8 = 1
 
-Total = 15
+Total = 16
