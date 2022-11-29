@@ -62,10 +62,10 @@ Survival: 1
 ### Knowledges
 Academics:
 Enigmas:
-Hearth Wisdom: 2
+Hearth Wisdom:
 Investigation: 2
 Law:
-Medicine:
+Medicine: 2
 Occult: 2
 Politics: 2
 Seneshal: 3

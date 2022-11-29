@@ -44,8 +44,8 @@ Empathy: 1
 Expression: 1
 Intimidation:
 Leadership:
-Legerdemain: 1
-Subterfuge: 1
+Legerdemain: 3
+Subterfuge: 3
 
 ### Skills
 Animal Ken: 3
@@ -56,7 +56,7 @@ Etiquette: 3
 Melee:
 Performance:
 Ride:
-Stealth: 2
+Stealth: 4
 Survival: 2
 
 ### Knowledges

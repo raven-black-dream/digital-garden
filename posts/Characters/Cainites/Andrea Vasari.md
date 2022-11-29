@@ -38,7 +38,7 @@ Wits: 3
 ## Abilities
 ### Talents
 Alertness: 3
-Athletics: 1
+Athletics: 2
 Awareness: 3
 Brawl: 1
 Empathy: 2
