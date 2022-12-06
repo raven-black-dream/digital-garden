@@ -7,5 +7,7 @@ Game 6 = 2
 Game 7 = 2
 Game 8 = 1
 Game 9 = 2
+Game 10 = 2
+Downtime = 
 
-Total = 18
+Total = 20

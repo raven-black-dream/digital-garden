@@ -72,3 +72,20 @@ Maria would likely have tried to read the note without conditioning, and Luca wo
 Warmest Regards, 
 Francesco
 "
+
+## Andrea's Response
+"
+I am so glad you heard my fond regards. 
+
+I saw you at Court for the first time since the battlefield, and did not think I could get around your company to say hello, but I did try. The loss of all the household was indeed a heartbreak. I had hoped we had bought you enough time to escape but learnt that was not the case. 
+
+I should have died on that field but was found somehow still partially alive. I had some unfortunate forced relations at the start of my time as a Cainite, but as you have obviously found now, I do happily have my own small household to lead. 
+
+I am happy to hear from you and passing a note for me is good, though I would warn you not to harm any of my ghouls. As you would have protected your household in life, it is my duty to protect them now. 
+
+Given history, Florence could be dangerous for you to be in without permission, though the city is really not as bad as you think. Perhaps one day we could meet again on a more positive note. How best may one contact you?
+"
+
+## Francesco's Response
+
+""
