@@ -88,4 +88,34 @@ Given history, Florence could be dangerous for you to be in without permission, 
 
 ## Francesco's Response
 
-""
+"
+Yes, the man whose company I often find myself in is not the most reasonable cainite to be around. I appreciate your attempt to "say hello", though it is probably a better idea to not deal with him too closely. 
+
+I am glad to see that you have moved in the direction that I was hoping and expecting that you would. I always felt that you were capable of far more than your service to me ever allowed you. I will keep your duty to protect your household in mind in future encounters with them. I would hate for us to come to blows over the treatment of a few mortals.
+
+I am glad to hear that you are not treated poorly in that city. Though I am not sure that you are aware of the entirety of the history of Florence? The city used to be quite friendly to Lasombra. 
+
+As for how to contact me, please seal any reply with the signet ring that I included with this note. Then leave it just inside the Shadow Gate in Florence. I will receive it. 
+
+Thank you for your interest in continued correspondance. There is a shocking dearth of pleasant conversationalists here in Milan. I look forward to our future interactions. 
+
+Perhaps in the future our paths may cross in a way that is more positive, though I think that that may be challenging given the current tensions between our cities.
+
+Best Regards,
+{{Signet Ring Impression Here}}
+"
+
+### Andrea Letter #2
+1 - Yes, my interactions with that particular individual have not been ideal. I agree that it is best not to deal with him too closely. {Yeah no duh I don't want to deal with him at all nevermind too closely. It might be best if you didn't either, but Imma say that in a way that could be read as just talking about myself.} 
+ 
+2 - {Some version of AAAAaaaaawwwww thank you, but with a gracious time-period-appropriate flourish. Then talking about said new household.} You may find you like these mortals if you came to know them. The one whom you have delivered correspondence to is efficient, diligent, and has adapted remarkably well to straddling the mortal and cainite worlds. The other two are also incredibly adept that the tasks they undertake, and surrounding oneself with knowledgable and dedicated people - mortal or cainite - is helpful. {In character, he's trying to humanize and contextualize his ghouls so that they aren't _just_ "a few mortals". Out of character, I'm doing this to potentially set up a positive view on Lucia the way you lay out his opinion of Andrea in the last letter, should you choose to go on that route later. He's also avoiding using names outright or specifying details like "the one that works in the library" throughout the letter.)
+
+3 - I am sure the histories and stories we have both been 'brought up on' so to speak in our respective cities, each have their own biases and gaps. To claim to know the entirety of a whole city's thousands of years of history while having been there for forty years would be quite a feat, though I have made a point of learning what I can in my time. {He's opening the door for Francesco to say more here, without trying to claim that he knows all the things, or fully admitting to not knowing what Francesco is getting at.} 
+
+4 - Thank you for the signet ring. (Insert either reminiscing about the old ring, or comments on the new design here.) How secure is the Shadow Gate? {He's discretely trying to fish for information generally about the shadow, who uses it and how it works, partially for the confidentiality of correspondence, partially cause... yeah...} You seem to have no problems delivering correspondence to my attache, so I at least have few worries about the return route. 
+
+5 - (Insert some reminiscing on details of conversation from their mortal time together.) 
+
+6 - The two areas definitely do not get along. It would certainly not do for you to be found in this city, and while I am happy to attend to business on the outskirts of the city's surrounds, I have no intention of visiting your city. Circumstances are always changing but you are quite right that the two systems and cities are not compatible now. {Something to the effect of 'Quite. This whole thing is made of problems. But, you never know.} 
+
+Best regards, A {note isn't addressed by name, nor signed with more than a letter and a ring imprint}
