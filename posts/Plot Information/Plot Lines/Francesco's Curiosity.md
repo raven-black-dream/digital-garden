@@ -106,6 +106,7 @@ Best Regards,
 "
 
 ### Andrea Letter #2
+Draft 1
 1 - Yes, my interactions with that particular individual have not been ideal. I agree that it is best not to deal with him too closely. {Yeah no duh I don't want to deal with him at all nevermind too closely. It might be best if you didn't either, but Imma say that in a way that could be read as just talking about myself.} 
  
 2 - {Some version of AAAAaaaaawwwww thank you, but with a gracious time-period-appropriate flourish. Then talking about said new household.} You may find you like these mortals if you came to know them. The one whom you have delivered correspondence to is efficient, diligent, and has adapted remarkably well to straddling the mortal and cainite worlds. The other two are also incredibly adept that the tasks they undertake, and surrounding oneself with knowledgable and dedicated people - mortal or cainite - is helpful. {In character, he's trying to humanize and contextualize his ghouls so that they aren't _just_ "a few mortals". Out of character, I'm doing this to potentially set up a positive view on Lucia the way you lay out his opinion of Andrea in the last letter, should you choose to go on that route later. He's also avoiding using names outright or specifying details like "the one that works in the library" throughout the letter.)
@@ -119,3 +120,22 @@ Best Regards,
 6 - The two areas definitely do not get along. It would certainly not do for you to be found in this city, and while I am happy to attend to business on the outskirts of the city's surrounds, I have no intention of visiting your city. Circumstances are always changing but you are quite right that the two systems and cities are not compatible now. {Something to the effect of 'Quite. This whole thing is made of problems. But, you never know.} 
 
 Best regards, A {note isn't addressed by name, nor signed with more than a letter and a ring imprint}
+
+Finished letter:
+
+"It is good to hear from you again.
+
+Yes, my interactions with that particular individual have not been ideal. I agree that it is best not to deal with him too closely.
+
+You flatter me with your compliments. You and the rest of the household were good to work with, and I did take great pride in my work as a mortal. You may also find you like these mortals if you came to know them. The one to whom you have delivered correspondence to is efficient, diligent, and has adapted remarkably well to straddling the mortal and cainite worlds. The other two are also incredibly adept that the tasks they undertake, and surrounding oneself with knowledgable and dedicated people - mortal or cainite - is helpful.
+
+I am sure the histories and stories we have both been 'brought up on' so to speak in our respective cities, each have their own biases and gaps. To claim to know the entirety of a whole city's thousands of years of history while having been there for forty years would be quite a feat, though I have made a point of learning what I can in my time.
+
+Thank you for the signet ring, it is of great sentimental value to have one of my old items back. (Insert reminiscing about the old ring.) How secure is the Shadow Gate? You seem to have no problems delivering correspondence to my attache, so I at least have few worries about the return route.
+
+(Insert some reminiscing on details of conversation from their mortal time together.)
+
+The two areas definitely do not get along. It would certainly not do for you to be found within the walls of this city, and I likewise have no intention of visiting your city myself. Circumstances are always changing but you are quite right that the two places are not compatible now.
+
+Best regards, A"
+{ring imprint}

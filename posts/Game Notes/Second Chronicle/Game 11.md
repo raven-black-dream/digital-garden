@@ -7,7 +7,7 @@ tags:
 
 Date: [[10-21-1515]]
 
-Location: *A link to the document for the location mentioned here*
+Location: [[D'Este Estate]], [[The Catacombs]], [[Old Elysium - Pietro's Office]]
 
 ### GM Notes
 - [ ] Salamah's shadow and eerie presence
@@ -99,9 +99,14 @@ She heads out into the catacombs for testing
 Sorin goes to sequester himself and finish his own work
 
 Andrea receives a message from Pietro - extremely formal, requests Andrea's presence in his office
-- Andrea has been hiding the results of an investigation Pietro had him doing [[Game 3]])
+- Andrea has been hiding the results of an investigation Pietro had him doing ([[Game 3]])
 - The letter sent to Vincent
 - What is the cost? - a boon
 - Andrea stands up to Pietro
-- Pietro agrees and Andrea hands over what Vincent gave him [[Game 9]]
-- 
+- Pietro agrees and Andrea hands over what Vincent gave him ([[Game 9]])
+- Andrea leaves
+
+Sorin
+- Continuing his experiments
+
+Game End
