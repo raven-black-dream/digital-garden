@@ -64,7 +64,7 @@ Survival: 1
 Academics: 1
 Enigmas: 1
 Hearth Wisdom: 1
-Investigation: 1
+Investigation: 2
 Law: 0
 Medicine: 1
 Occult: 1

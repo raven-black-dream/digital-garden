@@ -10,5 +10,6 @@ Game 9 = 2
 Game 10 = 2
 Downtime =2
 Game 11 = 2
+Game 12 = 2
 
-Total = 24
+Total = 26
