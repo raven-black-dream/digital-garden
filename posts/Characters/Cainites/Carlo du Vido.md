@@ -168,7 +168,7 @@ He started his small mercenary band with some money from his father and with the
 ## Relationships
 
 ### Allies 
-[[Giulio du Vido]] - Carlo's oldest brother. He finds Carlo's antics amusing and has often gotten him out of trouble in the past
+[[Characters/Ghouls/Giulio du Vido]] - Carlo's oldest brother. He finds Carlo's antics amusing and has often gotten him out of trouble in the past
 
 ### Other Relations
 [[Matteo du Vido]] - Carlo's Father. He often wishes that his youngest son was smarter and has very little patience for him.

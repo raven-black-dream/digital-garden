@@ -9,7 +9,7 @@ tags:
 
 ## Primary Character Focus
 - [[Carlo du Vido]]
-- [[Giulio du Vido]]
+- [[Characters/Ghouls/Giulio du Vido]]
 - Giulio's Family
 
 ## Main Goal
