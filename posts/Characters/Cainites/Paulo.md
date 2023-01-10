@@ -1,5 +1,5 @@
 ---
-title: "Paulo"
+title: "Paolo"
 tags:
 - Cainite
 - Methusela
@@ -111,3 +111,5 @@ After being sent packing last Chronicle Paulo and the other Lasombra have been k
 Francesco has been keeping an ear out for news of Andrea. Though, that will depend fairly strongly on what Katrina wants to have happen with that particular plot point.
 
 Perhaps Paulo will make some kind of return in the next chronicle. But, I am not sure what role he might have in a broader story arc.
+
+ Thinks Francesco = Ventrue/Toreador hybrid, not a real Lasombra

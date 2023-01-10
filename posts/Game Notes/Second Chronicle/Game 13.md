@@ -5,9 +5,9 @@ tags:
 - GameNote
 ---
 
-Date: *A link to a Date Oriented Events Note with the date in format mm-dd-yyyy*
+Date: [[10-22-1515]]
 
-Location: *A link to the document for the location mentioned here*
+Location: [[The Catacombs]]; [[The Warrens]]
 
 ### GM Notes
 - [ ] Salamah's shadow and eerie presence

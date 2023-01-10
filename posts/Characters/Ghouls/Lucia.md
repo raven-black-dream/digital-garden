@@ -76,7 +76,7 @@ Theology: 2
 ## Advantages
 ### Disciplines
 Obfuscate: 1
-
+Presence: 1
 
 ### Backgrounds
 Allies: 2

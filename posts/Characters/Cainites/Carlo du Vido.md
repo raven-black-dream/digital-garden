@@ -20,55 +20,55 @@ Ghouls: [[Borso]]
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 5
+Dexterity: 2
+Stamina: 3
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 3
+Manipulation: 1
+Appearance: 4
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 2
+Intelligence: 1
+Wits: 3
 
 ---
 
 ## Abilities
 ### Talents
-Alertness:
-Athletics:
+Alertness: 3
+Athletics: 2
 Awareness:
-Brawl:
+Brawl: 3
 Empathy:
-Expression:
-Intimidation:
-Leadership:
+Expression: 2
+Intimidation: 1
+Leadership: 2
 Legerdemain:
 Subterfuge:
 
 ### Skills
 Animal Ken:
-Archery:
-Commerce:
+Archery: 2
+Commerce: 1
 Crafts:
 Etiquette:
-Melee:
-Performance:
-Ride:
+Melee: 4 - blades
+Performance: 2
+Ride: 3
 Stealth:
-Survival:
+Survival: 1
 
 ### Knowledges
 Academics:
 Enigmas:
-Hearth Wisdom:
+Hearth Wisdom: 2
 Investigation:
 Law:
-Medicine:
-Occult:
+Medicine: 2
+Occult: 1
 Politics:
 Seneshal:
 Theology:
@@ -77,26 +77,34 @@ Theology:
 
 ## Advantages
 ### Disciplines
-
-
+Celerity 1
+Presence 1
+Potence 2
 
 ### Backgrounds
 
 
 
 ### Virtues
-Conscience/Conviction: 
-Self-Control/Instinct:
-Courage:
+Conscience/Conviction: 4
+Self-Control/Instinct: 2
+Courage: 4
 
 ### Merits
+blush of health
+deceptive eating
+lucky
 
 ### Flaws
+infamous sire
+sire's resentment
+enemy
+repulsed by garlic
 
 ### Other Traits
-Road:
+Road: Beast
 Aura: 
-Willpower:
+Willpower: 7
 
 ### Clan Weakness
 

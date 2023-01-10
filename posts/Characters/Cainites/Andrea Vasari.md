@@ -43,7 +43,7 @@ Awareness: 3
 Brawl: 1
 Empathy: 2
 Expression: 1
-Intimidation: 0
+Intimidation: 1
 Leadership: 1
 Legerdemain: 0
 Subterfuge: 1
@@ -55,7 +55,7 @@ Commerce: 0
 Crafts: 0
 Etiquette: 1
 Melee: 2
-Performance: 0
+Performance (Acting): 1
 Ride: 1
 Stealth: 2 - Sneak
 Survival: 1

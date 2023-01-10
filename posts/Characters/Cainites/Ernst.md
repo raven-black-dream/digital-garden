@@ -7,7 +7,6 @@ tags:
 ---
 
 # Ernst
-- [x] #todo Fill out character document
 ---
 ## Basic Info
 Player: #NonPlayerCharacter
