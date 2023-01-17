@@ -1,5 +1,5 @@
 ---
-title: "The Inquiaition Redux"
+title: "The Inquisition Redux"
 tags:
 - PlotArc
 - Major

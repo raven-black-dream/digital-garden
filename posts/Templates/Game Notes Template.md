@@ -13,7 +13,7 @@ Location: *A link to the document for the location mentioned here*
 - [ ] A list of reminders
 
 ### Pre-Game
-- [ ] Questions, comments, etc
+- [ ] Questions, comments, XP etc
 
 ### Plot
 - [ ] A list of plot points to hit

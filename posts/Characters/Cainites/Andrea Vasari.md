@@ -29,7 +29,7 @@ Manipulation: 3
 Appearance: 0
 
 ### Mental
-Perception: 4
+Perception: 4 - Social Perception
 Intelligence: 3
 Wits: 3
 

@@ -13,5 +13,6 @@ Game 11 = 2
 Game 12 = 2
 Game 13 = 2
 Game 14 = 1
+Game 15 = 3
 
 Total = 29

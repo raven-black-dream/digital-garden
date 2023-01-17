@@ -8,7 +8,7 @@ title: "Game 0"
 		1) After each major plot arc - player check in, potential time skip
 	2) Minor Plots along the way
 	3) Expect NPC trauma
-2) Conversaion about the time in between chronicles
+2) Conversation about the time in between chronicles
 3) Plot lines already gotten in order
 4) Thoughts from Players
 

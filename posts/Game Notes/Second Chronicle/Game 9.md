@@ -7,13 +7,15 @@ tags:
 
 Date: [[10-07-1515]]
 
-Location: [[D'Este Estate]], [[The Catacombs]], [[Old Elysium - Pietro's Office]]
+Location: [[D'Este Estate]], [[The Catacombs]], [[Old Elysium - Pietro's Office]]*A link to a Date Oriented Events Note with the date in format mm-dd-yyyy*
+
+Location: *A link to the document for the location mentioned here*
 
 ### GM Notes
 - [ ] Andrea has auspex, no real auspex rolls except very specific things; rely on innate abilities with auspex. Threat of overstimulation
 	- [ ] Drinking the carafe of blood leads to hallucinations and the beast wanting vitae instead of human blood
 - [ ] Salamah's shadow and eerie presence
-- [x] Response from Vincent (a few days)
+- [x ] Response from Vincent (a few days)
 - [ ] Ghouls:
 	- [ ] Borso - fed vitae ???
 	- [ ] Balc - fed vitae on 10-06-1515
@@ -36,7 +38,7 @@ Salamah goes out hunting
 - Dark alley - find a drunk wandering down, surprisingly alert
 - He yells out and swings at her
 - She grabs him, bares his neck, begins to drain him dry as she wraps them both in abyssal shadow
-	- End of life - Bruno, steelworker
+	- End of life - Bruno, steelworker - About to start as the in house blacksmith for the D'Este Estate.
 - Releases the abyss from her veins
 - There was someone (haven't decided who yet) watching with 7 successes.
 
