@@ -1,0 +1,41 @@
+### Carlo
+- Check on family
+- Note from sheriff? Never received after last time skip
+	- Would like to talk with Giotto regardless
+	- Would like to do more with this part of the city politics
+- City guard ghoul - Lorenzo
+	- Get him promoted
+	- What sorts of things are you going to do to accomplish that?
+		- Stronger and smarter
+		- Solve a major crime
+			- Carlo is willing to commit a major crime and frame someone else in order for Lorenzo to have a crime to solve
+			- Major theft? - see note in vampire-the-masquerade chat
+				- Something that belongs to someone very important in the city
+					- Theft from the goldsmith's guild
+					- Maybe frame one of Giovanna's descendents? (Merchant quarter)
+				- Receive commendation etc, maybe small promotion
+				- Rinse/Repeat
+			- May also work on getting Lorenzo married well to boost his status
+- Get Borso into the city guard
+- Teaching ghouls extra disciplines and/or skills
+- Wants to learn Dominate - needs to find someone to teach him - asks Nico?
+	- Carlo goes to the library to "Learn Dominate from a book"
+		- Obviously not a thing, but then asks Nico
+	- Also spent 30ish years out of Florence, maybe someone comes to visit?
+
+### Sorin
+- Scene with Andrea (to be in game)
+- Lets the boon with Salamah sit?
+	- Wants to go down the exploding body trap stuff
+	- May lean on the boon to get help figuring out a direction for that
+	- May lead to blood sorcery lol
+- Salamah warns him to not approach Andrea until he has a chance to cool down some
+	- Planning on staying away from the estate until we all meet up anyway
+- Research and explosions
+- Balc
+	- Checking in - any news from the old world (Bucharest)
+	- If he catches wind that he had a part in the coterie finding his lab, there may be a thing
+- Sorin not interested in directly talking to NPCs
+	- Maybe Balc? - Thinking
+- Looking into Koldunic Sorcery and maybe Thaumaturgy
+

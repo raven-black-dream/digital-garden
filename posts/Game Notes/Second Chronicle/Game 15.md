@@ -25,12 +25,12 @@ Location: *A link to the document for the location mentioned here*
 
 ### Plot
 - [x] Whatever Sorin is up to
-- [ ] Finish talk with Brother Antonio
-	- [ ] Probably only going to get the details that Giovanni is a Venetian name
-- [ ] Note from Lorenzo (Carlo's guard ghoul)
-	- [ ] Being questioned by the Inquisition about the investigation
-	- [ ] He's trying to not give anything important away, just case facts, but we should be careful
-- [ ] Player Agency: Inquisition Edition - what doing?
+- [x] Finish talk with Brother Antonio
+	- [x] Probably only going to get the details that Giovanni is a Venetian name
+- [x] Note from Lorenzo (Carlo's guard ghoul)
+	- [x] Being questioned by the Inquisition about the investigation
+	- [x] He's trying to not give anything important away, just case facts, but we should be careful
+- [x] Player Agency: Inquisition Edition - what doing?
 
 ### Game Start
 

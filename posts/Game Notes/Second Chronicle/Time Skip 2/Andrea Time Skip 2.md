@@ -8,9 +8,9 @@ A1.A: "Some not all, many of them were too messed up to be able to identify. The
 A1.B: "Again some of them, there wasn't a lot of information that they were able to give, other than where they were going etc. There didn't seem to be any real patterns in the people who were targeted." (Will follow-up when Andrea has things to say/questions to ask)
 
 Follow up: "Thank you for your work. It makes sense with what we know now that there wasn't much of a pattern. How were those that you did talk to? Were any in dire straights?" 
-story teller discretion here of if you feel like having an Andrea-pokes-his-nose-into-more-mortals-lives storyline or not, answer accordingly and move to 2 if yes :)
+~~story teller discretion here of if you feel like having an Andrea-pokes-his-nose-into-more-mortals-lives storyline or not, answer accordingly and move to 2 if yes :)~~ doesn't pursue further
 
-2 - Depending on answers to 1, and if there are people he thinks should be checked in on more: "Borso, would you go with Lucia to check on the murdered's relations? I feel like she could use some backup and it makes the most sense to go during the day when I can't be there. And I know you're Carlo's ghoul, so before you wonder why you should care, let me present it to you this way. Desperate people with nothing to lose will do desperate things. Their relations were supernaturally murdered and we don't want those desperate things to be hunting for answers. Think of it like preemptively protecting Carlo from people looking for answers or bringing the inquisition back."
+~~2 - Depending on answers to 1, and if there are people he thinks should be checked in on more: "Borso, would you go with Lucia to check on the murdered's relations? I feel like she could use some backup and it makes the most sense to go during the day when I can't be there. And I know you're Carlo's ghoul, so before you wonder why you should care, let me present it to you this way. Desperate people with nothing to lose will do desperate things. Their relations were supernaturally murdered and we don't want those desperate things to be hunting for answers. Think of it like preemptively protecting Carlo from people looking for answers or bringing the inquisition back."~~
 
 A2: 
 
@@ -121,9 +121,11 @@ Follow up: heheheh that's good XD
 
 2 - "<to Lucia when he wakes up the next morning that she's there> So, why _did_ you choose Awe to learn, and why ask Guidobaldo?" "Well, if you're going that route, you really should get a bit better at acting. We should practice that." Possibly working on acting together. Probably away in the manor cellar.
 
-A15: "I heard "
+A15: "I heard that he was remarkably cool tempered for a Brujah, and I wasn't sure which other clan might have the ability to teach me."
 
 3 - Poking a bit more at who she owes things to / who owes her now that he knows she's doing that. Asking in more indirect ways and worked into other conversations as opposed to "give me a complete accounting now".
+
+A16: She owes Nico a boon, which he hasn't called in yet, and is continuing to do errands for Guidobaldo.
 
 -----
 
@@ -140,6 +142,8 @@ Add this to the list of things that he asks Pietro about at some point. Dependin
 Nosferatu
 1 - Go check on the caved tunnel area, perhaps go say hi to some Nosferatu contacts and see how they're doing (incl Leonello?).  
 
+They're doing alright, the tunnel is reinforced, some suspicion around Andrea being there without a distinct errand.
+
 -----
 
 Pietro
@@ -147,6 +151,8 @@ Pietro
 1 - Update on activities, see also Sorin section
 
 2 - How would one contact another Cainite city in this time? Is there some sort of city-to-city mail through Heralds or between Princes? Is it all personal, like if someone wants to talk to someone in another city they go themselves / send a ghoul? If travelling themselves do they have to ask permission to leave/enter? Andrea would ask Pietro about getting a message to Venice looking for Niccolo if that was an applicable thing to ask the city's Seneschal.
+
+Personal, often sending a ghoul
 
 -----
 
