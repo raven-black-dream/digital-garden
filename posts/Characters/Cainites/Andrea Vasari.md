@@ -57,7 +57,7 @@ Etiquette: 1
 Melee: 2
 Performance (Acting): 1
 Ride: 1
-Stealth: 2 - Sneak
+Stealth: 3 - Sneak
 Survival: 1
 
 ### Knowledges
@@ -65,9 +65,9 @@ Academics: 1
 Enigmas: 1
 Hearth Wisdom: 1
 Investigation: 2
-Law: 0
-Medicine: 1
-Occult: 1
+Law: 1
+Medicine: 2
+Occult: 2
 Politics: 1
 Seneshal: 1
 Theology: 0
@@ -121,7 +121,7 @@ Willpower: 10
 ## Back Story
 ### Arc 1 Summary
 #### [[< 01-01-1466]]
-As a human, Andrea was a close assistant to Francesco Sforza, a banker with close family ties to the rules of Milan, in Milan. 
+As a human, Andrea was a close assistant to Francesco Sforza, a banker with close family ties to the rulers of Milan, in Milan. 
 
 #### [[01-14-1466]]
 Andrea was serving as a personal guard when Francesco's cousin called in a favour for help in a battle near Florence. Carlo's mercenary group captured Francesco for ransom, nearly killed Andrea and left him to die, and killed the rest of Francesco's group.

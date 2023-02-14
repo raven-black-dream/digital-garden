@@ -5,9 +5,9 @@ tags:
 - GameNote
 ---
 
-Date: 
+Date: [[11-23-1515]]
 
-Location: [[11-23-1515]]
+Location: 
 
 ### GM Notes
 - [ ] Salamah's shadow and eerie presence

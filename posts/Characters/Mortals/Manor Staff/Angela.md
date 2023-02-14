@@ -1,11 +1,11 @@
 ---
-title: "Hugo"
+title: "Angela"
 tags:
 - Mortal
 - ManorStaff
 ---
 
-# Hugo
+# Angela
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
@@ -85,7 +85,5 @@ Willpower:
 
 ---
 ## Other Plot Information
-mercenary background, from Bern Switzerland
-Junior to [[Hans]], late twenties
-fairly lowkey, not terribly reactive
-money a high priority
+started a few months into arc 2
+34 year old maid

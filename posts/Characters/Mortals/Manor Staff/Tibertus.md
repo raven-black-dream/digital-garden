@@ -1,11 +1,11 @@
 ---
-title: "Hugo"
+title: "Tibertus"
 tags:
 - Mortal
 - ManorStaff
 ---
 
-# Hugo
+# Tibertus
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
@@ -85,7 +85,5 @@ Willpower:
 
 ---
 ## Other Plot Information
-mercenary background, from Bern Switzerland
-Junior to [[Hans]], late twenties
-fairly lowkey, not terribly reactive
-money a high priority
+started a few months into arc 2
+32 year old Italian stable hand (while we're at it, let's task Tibertus with aquiring some horses again to keep for the Estate)

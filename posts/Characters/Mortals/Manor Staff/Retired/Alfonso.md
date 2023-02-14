@@ -1,11 +1,11 @@
 ---
-title: "Hugo"
+title: "Alfonso"
 tags:
 - Mortal
 - ManorStaff
 ---
 
-# Hugo
+# Alfonso
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
@@ -85,7 +85,6 @@ Willpower:
 
 ---
 ## Other Plot Information
-mercenary background, from Bern Switzerland
-Junior to [[Hans]], late twenties
-fairly lowkey, not terribly reactive
-money a high priority
+Unnamed day staff in arc 1
+arc 2: age 65, semi retired but sometimes day or night staff
+retires a few months into arc 2

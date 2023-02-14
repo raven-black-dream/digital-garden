@@ -1,11 +1,11 @@
 ---
-title: "Hugo"
+title: "Franco"
 tags:
 - Mortal
 - ManorStaff
 ---
 
-# Hugo
+# Franco
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
@@ -85,7 +85,8 @@ Willpower:
 
 ---
 ## Other Plot Information
-mercenary background, from Bern Switzerland
-Junior to [[Hans]], late twenties
-fairly lowkey, not terribly reactive
-money a high priority
+New hire on coterie formation. He looks at the position as doing what he was doing at another noble house for more money.
+
+arc 1: say 24?
+arc 2: 64
+retires a few months into arc 2, a little after Alfonso

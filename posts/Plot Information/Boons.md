@@ -13,6 +13,7 @@ Character 1 (link) owes Character 2 (link) for insert action here (link to game 
 [[Salamah bint Alzilal]] might owe [[Nico]] for something? extra library access?
 [[Salamah bint Alzilal]] might owe [[Andrea Vasari]] for dealing with the screaming man?
 [[Salamah bint Alzilal]] owes [[Sorin]] for borrowing "bait" for the inquisition
+[[Sorin]] owes [[Alessandra]] for Venetian contact method
 
 
 [[Nico]] and [[Andrea Vasari]] are trading library assistance from [[Maria]] for Auspex mentorship

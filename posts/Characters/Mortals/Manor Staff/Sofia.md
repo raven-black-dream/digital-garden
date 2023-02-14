@@ -1,11 +1,11 @@
 ---
-title: "Hugo"
+title: "Sofia"
 tags:
 - Mortal
 - ManorStaff
 ---
 
-# Hugo
+# Sofia
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
@@ -85,7 +85,5 @@ Willpower:
 
 ---
 ## Other Plot Information
-mercenary background, from Bern Switzerland
-Junior to [[Hans]], late twenties
-fairly lowkey, not terribly reactive
-money a high priority
+started a few months into arc 2
+25 year old kitchen worker
