@@ -14,5 +14,8 @@ Game 12 = 2
 Game 13 = 2
 Game 14 = 1
 Game 15 = 3
+Game 16 = 2
+Game 17 = 2
+Game 18 = 1
 
-Total = 29
+Total = 34
