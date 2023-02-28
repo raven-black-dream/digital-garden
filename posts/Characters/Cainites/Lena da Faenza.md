@@ -76,8 +76,8 @@ Theology:
 
 ## Advantages
 ### Disciplines
-Dominate - 5
-Presence - 4
+Dominate - 3
+Presence - 5
 Fortitude - 8 - Armored Flesh
 
 

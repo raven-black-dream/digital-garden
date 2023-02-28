@@ -17,5 +17,6 @@ Game 15 = 3
 Game 16 = 2
 Game 17 = 2
 Game 18 = 1
+Game 19 = 2
 
-Total = 34
+Total = 36

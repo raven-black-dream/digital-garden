@@ -6,7 +6,6 @@ tags:
 ---
 
 # Leonello
-- [x] #todo Fill out character document
 ---
 ## Basic Info
 Player: #NonPlayerCharacter 
@@ -20,63 +19,66 @@ Ghouls:
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 3
+Dexterity: 2
+Stamina: 3
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 4
+Manipulation: 3
+Appearance: 0
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 2
+Intelligence: 2
+Wits: 3
 
 ---
 
 ## Abilities
 ### Talents
-Alertness:
-Athletics:
+Alertness: 2
+Athletics: 2
 Awareness:
-Brawl:
+Brawl: 4
 Empathy:
 Expression:
-Intimidation:
+Intimidation: 2
 Leadership:
 Legerdemain:
-Subterfuge:
+Subterfuge: 2
 
 ### Skills
-Animal Ken:
-Archery:
+Animal Ken: 2
+Archery: 1
 Commerce:
 Crafts:
-Etiquette:
-Melee:
+Etiquette: 1
+Melee: 4
 Performance:
-Ride:
-Stealth:
-Survival:
+Ride: 2
+Stealth: 2
+Survival: 2
 
 ### Knowledges
-Academics:
+Academics: 1
 Enigmas:
-Hearth Wisdom:
-Investigation:
+Hearth Wisdom: 1
+Investigation: 3
 Law:
-Medicine:
+Medicine: 1
 Occult:
-Politics:
+Politics: 1
 Seneshal:
-Theology:
+Theology: 1
 
 ---
 
 ## Advantages
 ### Disciplines
+Obfuscate 2
+Potence 4
+Fortitude 1
 
 
 
@@ -87,7 +89,9 @@ Theology:
 ### Virtues
 Conscience/Conviction: 
 Self-Control/Instinct:
-Courage:
+Courage: 4
+
+Willpower: 7
 
 ### Merits
 

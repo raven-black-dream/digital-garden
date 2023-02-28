@@ -82,6 +82,8 @@ Potence: 4
 Animalism: 3
 Obfuscate: 4
 
+Auspex: 1
+Blood Apocryphia: 1
 
 ### Backgrounds
 Influence: 2

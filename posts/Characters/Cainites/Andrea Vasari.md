@@ -106,7 +106,7 @@ Outsider 1
 Demon hounded (imp level) 1
 
 ### Other Traits
-Road: 5 - Humanity
+Road: 6 - Humanity
 Aura: Human - no modifier
 Willpower: 10
 
