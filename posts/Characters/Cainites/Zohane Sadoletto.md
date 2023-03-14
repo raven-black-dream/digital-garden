@@ -18,19 +18,19 @@ Ghouls:
 
 ## Attributes
 ### Physical
-Strength: 
-Dexterity:
-Stamina:
+Strength: 1
+Dexterity: 4
+Stamina: 1
 
 ### Social
-Charisma:
-Manipulation:
-Appearance:
+Charisma: 3
+Manipulation: 4
+Appearance: 5
 
 ### Mental
-Perception: 
-Intelligence:
-Wits:
+Perception: 3
+Intelligence: 2
+Wits: 3
 
 ---
 
@@ -75,7 +75,9 @@ Theology:
 
 ## Advantages
 ### Disciplines
-
+Auspex: 1
+Celerity: 4
+Presence: 6
 
 
 ### Backgrounds

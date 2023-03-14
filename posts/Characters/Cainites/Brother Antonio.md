@@ -60,12 +60,12 @@ Stealth:
 Survival: 
 
 ### Knowledges
-Academics: 4
+Academics: 2
 Enigmas: 2
 Hearth Wisdom:
 Investigation: 1
 Law:
-Medicine:
+Medicine: 2
 Occult: 3
 Politics:
 Seneshal:
@@ -75,9 +75,14 @@ Theology: 4
 
 ## Advantages
 ### Disciplines
+Obfuscate 2
 Auspex - 4
-Fortitude - 2
-Necromancy - 4
+Fortitude - 4
+Necromancy
+- Path of Skulls - 5
+- Corpse in the Monster 3
+- Path of Bone - 3
+- Grave's Decay - 1
 
 
 

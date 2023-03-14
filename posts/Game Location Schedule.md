@@ -1,6 +1,6 @@
 | Date | Planned Location |
 | - | - |
-|2023 Mar 13     | Evan's |
+|2023 Mar 13     | Discord |
 |2023 Mar 20     | |
 |2023 Mar 27     | Discord |
 |2023 Apr 03     | |
