@@ -5,7 +5,7 @@ tags:
 - GameNote
 ---
 
-Date: *A link to a Date Oriented Events Note with the date in format mm-dd-yyyy*
+Date: [[11-26-1515]] - [[11-30-1515]]
 
 Location: *A link to the document for the location mentioned here*
 
@@ -74,7 +74,7 @@ Carlo and Brother Antonio
 	- He goes for a lovely meal and drink, but can't get drunk
 
 Salamah and Sorin are researching
-- Andrea returns - drunk on wine-soaked vitae - flops on the couch
+- Andrea returns - drunk on opium-soaked vitae - flops on the couch
 - Salamah is concerned
 - Carlo returns and cannot see very well so bumps into things
 	- Tells everyone about the curse
@@ -87,9 +87,22 @@ Salamah and Sorin are researching
 - Lucia is unphased - she goes and collects Andrea, gives off possessive vibes
 - Salamah continues to be unimpressed and returns to her room to research
 
-Day breaks - activity in the city
+Day breaks - activity in the city:
+man sprinting stumble as he turns down an alleyway to see a random act of violence taking place, one threatening another for his purse
+he bowls into the one with a knife causing enough distraction for the other to get away
+hurried stumble as he exits the alleyway begging his apologies
+heading home not noticing the trail of blood he leaves, not noticing until the world goes dark
 
 - Andrea wakes to Lucia in his room - she presses for info about the previous evening
 - Andrea explains the transfer of intoxicants through feeding that apparently happens
 - Lucia has a note to deliver to a ghoul - she doesn't know who said ghoul is attached to
-- 
+
+Borso like 'what the hell' about Carlo barging in to use the chamberpot
+
+Salamah at Lena's: tonight I have two tasks for you
+1 - collect a note for me, the ghoul that I would normally send to do this is missing
+2 - I need information on Brother Antonio
+
+Filian and Sorin talk visions and his sire
+
+Game Ends

@@ -78,6 +78,8 @@ Theology:
 ## Advantages
 ### Disciplines
 - Dominate - 8
+	- Fealty
+	- Chain the Psyche
 - Presence - 5
 - Fortitude - 6
 - Auspex - 1

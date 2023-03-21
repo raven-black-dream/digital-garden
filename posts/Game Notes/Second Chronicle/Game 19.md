@@ -5,7 +5,7 @@ tags:
 - GameNote
 ---
 
-Date: [[11-24-1515]]
+Date: [[11-24-1515]], [[11-25-1515]]
 
 Location: *A link to the document for the location mentioned here*
 
