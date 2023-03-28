@@ -1,0 +1,2 @@
+- Commune with Shadow (Level 4 ritual)
+- Abyssal Identification (Level 1-3 ritual)
