@@ -24,7 +24,7 @@ Dexterity: 3
 Stamina: 3
 
 ### Social
-Charisma: 2
+Charisma: 3
 Manipulation: 3
 Appearance: 0
 

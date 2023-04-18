@@ -6,7 +6,6 @@ tags:
 ---
 
 # Carlo du Vido
-- [x] #todo Fill out character document
 ---
 ## Basic Info
 Player: [[Drew ]]
@@ -21,12 +20,12 @@ Ghouls: [[Borso]]
 ## Attributes
 ### Physical
 Strength: 5
-Dexterity: 2
+Dexterity: 3
 Stamina: 3
 
 ### Social
-Charisma: 3
-Manipulation: 1
+Charisma: 2
+Manipulation: 2
 Appearance: 4
 
 ### Mental
@@ -38,48 +37,49 @@ Wits: 3
 
 ## Abilities
 ### Talents
-Alertness: 3
-Athletics: 2
-Awareness:
-Brawl: 3
-Empathy:
+Alertness: 2
+Athletics: 3
+Awareness: 2
+Brawl: 5
+Empathy: 1
 Expression: 2
-Intimidation: 1
+Intimidation: 2
 Leadership: 2
-Legerdemain:
-Subterfuge:
+Legerdemain: 0
+Subterfuge: 0
 
 ### Skills
-Animal Ken:
+Animal Ken: 0
 Archery: 2
 Commerce: 1
-Crafts:
-Etiquette:
-Melee: 4 - blades
+Crafts: 0
+Etiquette: 0
+Melee: 5 - blades
 Performance: 2
 Ride: 3
-Stealth:
+Stealth: 0
 Survival: 1
 
 ### Knowledges
-Academics:
-Enigmas:
+Academics: 2
+Enigmas: 0
 Hearth Wisdom: 2
-Investigation:
-Law:
+Investigation: 1
+Law: 1
 Medicine: 2
 Occult: 1
-Politics:
-Seneshal:
-Theology:
+Politics: 2
+Seneshal: 1
+Theology: 0
 
 ---
 
 ## Advantages
 ### Disciplines
-Celerity 1
+Celerity 2
 Presence 1
 Potence 2
+Dominate 1
 
 ### Backgrounds
 
@@ -102,7 +102,7 @@ enemy
 repulsed by garlic
 
 ### Other Traits
-Road: Beast
+Road: Beast - 6
 Aura: 
 Willpower: 7
 

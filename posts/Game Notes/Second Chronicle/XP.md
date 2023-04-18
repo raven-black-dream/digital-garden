@@ -22,5 +22,7 @@ Game 20 = 2
 Game 21 = 1
 Game 22 = 2
 Game 23 = 2
+Game 24 = 2
+Game 25 = 3
 
-Total = 43
+Total = 48
