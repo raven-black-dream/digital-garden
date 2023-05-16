@@ -1,8 +1,6 @@
 Jacobella - a spite embrace from the 13th century of a beautiful court lady
 In life she went by Bella, as a Nosferatu she commonly goes by Jac
-Obfuscate heavy - will frequently change her appearance; donns her human face or those of other beautiful women to pass in human society, and will change her appearance sometimes in the Nosferatu warrens to appear even more hideous than her curse
-spiteful of what she lost but also scorns and mocks those who seek beauty
-she and Pietro bonded somewhat over being spite embraces
+Obfuscate heavy - will frequently change her appearance; donns her human face or those of other beautiful women to pass in human society, and will change her appearance sometimes in the Nosferatu warrens to appear even more hideous than her curse spiteful of what she lost but also scorns and mocks those who seek beauty she and Pietro bonded somewhat over being spite embraces
 
 Vincent (Vincentius) - a hunched old Nosferatu that lives in an outpost and mostly refuses to talk directly to other vampires, or humans. Derisively sometimes known as 'the rat man', he has entire legions of rat ghouls, and a few other creatures. Quinn and Thomas know / sometimes interact with several of his ghouls.
 

@@ -106,3 +106,5 @@ Start of Arc 1: 18 years old
 Ghouled at 19
 
 40 year time skip xp: leadership (4, 6), left in reserve (2) = 12
+1515-1517 timeskip: 3xp
+= current total: 5xp

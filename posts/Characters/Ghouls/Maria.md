@@ -104,3 +104,5 @@ start of arc 1: mousy young girl with brown hair and brown eyes, 14 years old
 ghouled during the time skip at age 19
 
 40 year time skip xp: = academics (3, 4), enigmas (3), in reserve (2) = 12
+1515-1517 timeskip: 3xp
+= current total: 5xp

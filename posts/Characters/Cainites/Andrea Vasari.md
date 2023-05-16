@@ -45,7 +45,7 @@ Empathy: 2
 Expression: 1
 Intimidation: 1
 Leadership: 1
-Legerdemain: 0
+Legerdemain: 1
 Subterfuge: 1
 
 ### Skills
@@ -55,7 +55,7 @@ Commerce: 0
 Crafts: 0
 Etiquette: 1
 Melee: 2
-Performance (Acting): 1
+Performance (Acting): 2
 Ride: 1
 Stealth: 3 - Sneak
 Survival: 1
@@ -70,7 +70,7 @@ Medicine: 2
 Occult: 2
 Politics: 1
 Seneshal: 1
-Theology: 0
+Theology: 1
 
 ---
 

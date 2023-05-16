@@ -54,7 +54,7 @@ Commerce: 1
 Crafts: 3
 Etiquette: 3
 Melee:
-Performance:
+Performance (Acting): 1
 Ride:
 Stealth: 4
 Survival: 2
@@ -105,3 +105,5 @@ There should also be some amount of putting her in danger some how. Andrea is ve
 Was a new hire when the coterie formed.
 
 40 year time skip xp: stealth (4), subterfuge (3), legerdemain (3), left in reserve (2) = 12
+1515-1517 timeskip: 4xp: performance - acting 1 (3)
+= current total: 3xp
