@@ -5,7 +5,7 @@ tags:
 - GameNote
 ---
 
-Date: *A link to a Date Oriented Events Note with the date in format mm-dd-yyyy*
+Date: [[05-02-1517]]
 
 Location: *A link to the document for the location mentioned here*
 
