@@ -10,7 +10,13 @@ Date: *A link to a Date Oriented Events Note with the date in format mm-dd-yyyy*
 Location: *A link to the document for the location mentioned here*
 
 ### GM Notes
-- [ ] A list of reminders
+- [ ] Salamah's shadow and eerie presence
+- [ ] Ghouls:
+	- [ ] Carlo - Borso - fed vitae on a regular schedule
+	- [ ] Carlo - Lorenzo (City Guard)
+	- [ ] Carlo - His brother -> Has been let go.
+	- [ ] Andrea - Lucia, Maria, and Luca are probably always okay because Andrea is on top of things, but could also list them here
+	- [ ] Salamah - Ra'iis (Raven) + street kids
 
 ### Pre-Game
 - [ ] Questions, comments, XP etc
@@ -106,7 +112,7 @@ WE WANT THE SCENE OF BORSO WAKING UP TO THE NOTE :P
 fast forward to Borso waking up with two notes next to his face -
 dawn breaks
 Borso wakes yawning, loosening his grip on his sword, hear paper rustle then fall and tap the end of his nose; blinks several times, opens the first of the pieces of paper
-looks at it still yawning, blink a few more times, how am I supposed to arrange Carthage? didn't Carthage...? guess that's clarification for the boss later... what's this postscript...? second note... mumblemumble message tray
+looks at it still yawning, blink a few more times, how am I supposed to arrange travel to Carthage? didn't Carthage...? guess that's clarification for the boss later... what's this postscript...? second note... mumblemumble message tray
 looks over to where Carlo is usually laid out
 "really boss, on my face, huh? you know I only leave you notes on your face cause you'll miss them otherwise" snorts
 gets up gets dressed, greets Luca and asks for message tray
